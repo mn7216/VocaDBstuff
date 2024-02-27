@@ -7,6 +7,9 @@
 // @match        https://www.nicovideo.jp/watch/*
 // @match        https://www.nicovideo.jp/user/*
 // @grant        none
+// @updateURL   https://raw.githubusercontent.com/mn7216/Vocalost/main/vocalostutils.js
+// @downloadURL https://raw.githubusercontent.com/mn7216/Vocalost/main/vocalostutils.js
+// @supportURL  https://github.com/mn7216/Vocalost/issues
 // ==/UserScript==
 
 (function() {
