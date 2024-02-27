@@ -1,2 +1,2 @@
 # Vocalost
- usefull stuff for vocalost
+ useful stuff for vocalost
