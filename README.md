@@ -9,6 +9,7 @@ This Userscript aims to make the process of identifying, searching for, and arch
 Install a userscript manager such as [Greasemonkey](https://www.greasespot.net/), [Tampermonkey](https://www.tampermonkey.net/), or [Violentmonkey](https://violentmonkey.github.io/).
 
 [Click here to install the script.](https://github.com/mn7216/Vocalost/raw/main/vocalostutils.user.js)
+
 The script should now be installed!
 
 # Usage
