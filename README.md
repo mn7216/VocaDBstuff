@@ -29,6 +29,10 @@ If you're having problems with the script, or want to request a feature to be ad
 Credits to everyone who figured out the methods implemented in the script:
 
 kagarin: [PFP](https://discord.com/channels/1052065579760107531/1052071447511711775/1160128926811697263) & [Thumbnail](https://discord.com/channels/1052065579760107531/1052071447511711775/1159139565563555902) methods
+
 sukihanna: [Nicopedia](https://discord.com/channels/1052065579760107531/1052071447511711775/1066567990511939595)
+
 Ajax: [Nicolog](https://discord.com/channels/1052065579760107531/1052071447511711775/1084955575168798820), [Openlists](https://discord.com/channels/1052065579760107531/1052071447511711775/1208172078256234526)
+
 Mitzi: [Hatena](https://discord.com/channels/1052065579760107531/1052071447511711775/1094011777949384765), [Nicoran](https://discord.com/channels/1052065579760107531/1052071447511711775/1204215110374264873)
+
