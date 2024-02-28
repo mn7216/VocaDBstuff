@@ -12,10 +12,14 @@ Install a userscript manager such as [Greasemonkey](https://www.greasespot.net/)
 
 The script should now be installed!
 
-# Usage
+# Usage:
 
 This script functions on NicoNico video pages and user pages (pages starting with https://www.nicovideo.jp/watch/ and https://www.nicovideo.jp/user/). On these pages, a menu tab should appear on the center right of the page:
 
 Shown on a page of a deleted video:
 
 ![image](https://github.com/mn7216/Vocalost/assets/94876457/332cd651-8159-4e93-8dcb-9e71f11aaa84)
+
+# Issues/Suggestions:
+
+If you're having problems with the script, or want to request a feature to be added, please [open an issue on Github](https://github.com/mn7216/Vocalost/issues) or message me on discord (HUK in vocalost discord).
