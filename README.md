@@ -2,7 +2,7 @@
 
 This Userscript aims to make the process of identifying, searching for, and archiving a lost song easier. It makes common ways of finding a song much faster as you can simply use the menu's functions rather than manually going through the process of, for example, copy-pasting a song's id into Nicolog and trying to find it.
 
-### Currently, it has a total of 16 functions, 4 for [User Pages](https://github.com/mn7216/Vocalost/wiki/User-Page) and 12 for [Video Pages](https://github.com/mn7216/Vocalost/wiki/Video-Pages). You can view the list of functions and what they do by clicking on the links or going to the [wiki](https://github.com/mn7216/Vocalost/wiki).
+### Currently, it has a total of 18 functions, 5 for [User Pages](https://github.com/mn7216/Vocalost/wiki/User-Page) and 13 for [Video Pages](https://github.com/mn7216/Vocalost/wiki/Video-Pages). You can view the list of functions and what they do by clicking on the links or going to the [wiki](https://github.com/mn7216/Vocalost/wiki).
 
 # Installation:
 
