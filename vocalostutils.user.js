@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Vocalost Utils for NicoNico
 // @namespace    https://github.com/mn7216/Vocalost
-// @version      1.0
+// @version      1.1
 // @description  Make identifying, searching for, and archiving lost songs easier.
 // @author       MN_7216
 // @match        https://www.nicovideo.jp/watch/*
@@ -50,6 +50,7 @@
                     { text: 'Nicolog', url: `https://www.nicolog.jp/user/${baseId}` },
                     { text: 'PFP 1', url: `https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/${substringForUserIcon(numericId, 3)}/${numericId}.jpg` },
                     { text: 'PFP 2', url: `https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/${substringForUserIcon(numericId, 4)}/${numericId}.jpg` },
+                    { text: 'PFP 3', url: `https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/${substringForUserIcon(numericId, 2)}/${numericId}.jpg` },
                     { text: 'Archive.org', url: `https://web.archive.org/web/*/${pageUrl}` }
                 ]
             };
@@ -61,7 +62,9 @@
                     { text: 'Bing', url: `https://www.bing.com/search?q="${baseId}"` },
                     { text: 'NND', url: `https://www.nicovideo.jp/search/${baseId}` },
                     { text: 'Openlists', url: `https://www.nicovideo.jp/openlist/${baseId}` },
-                    { text: 'Youtube', url: `https://www.youtube.com/results?search_query="${baseId}"` }
+                    { text: 'Youtube', url: `https://www.youtube.com/results?search_query="${baseId}"` },
+                    { text: 'Sogou', url: `https://www.sogou.com/web?query="${baseId}"` },
+                    { text: 'Yandex', url: `https://yandex.com/search/?text=+${baseId}` },
                 ]
             };
         }
@@ -74,7 +77,6 @@
             { text: 'Large Thumbnail', url: `http://tn.smilevideo.jp/smile?i=${numericId}.L` },
             { text: 'Hatena', url: `https://b.hatena.ne.jp/entry/www.nicovideo.jp/watch/${baseId}` },
             { text: 'Nicopedia', url: `https://dic.nicovideo.jp/t/v/${baseId}` },
-            { text: 'Nicoran', url: `http://nicoranweb.com/watch/${baseId}` },
             { text: 'Archive.org', url: `https://web.archive.org/web/*/${getCleanUrl(pageUrl)}` }
         ];
     }
@@ -157,7 +159,7 @@ function setupTabsContainer(container, tabs, contentDisplay) {
 
     function activateTab(button, items, container) {
         document.querySelectorAll('.menu-tab-button').forEach(btn => btn.style.backgroundColor = '#f2f2f2');
-        button.style.backgroundColor = '#ddd'; 
+        button.style.backgroundColor = '#ddd';
         updateTabContent(container, items);
     }
 
