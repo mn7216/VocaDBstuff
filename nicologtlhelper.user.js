@@ -6,6 +6,9 @@
 // @author       MN_7216
 // @match        https://www.nicolog.jp/*
 // @grant        none
+// @updateURL   https://github.com/mn7216/Vocalost/raw/main/nicologtlhelper.user.js
+// @downloadURL https://github.com/mn7216/Vocalost/raw/main/nicologtlhelper.user.js
+// @supportURL  https://github.com/mn7216/Vocalost/issues
 // @run-at       document-end
 // ==/UserScript==
 
