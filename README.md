@@ -26,6 +26,12 @@ Shown on a page of a deleted video:
 
 If you're having problems with the script, or want to request a feature to be added, please [open an issue on Github](https://github.com/mn7216/Vocalost/issues) or message me on discord (HUK in vocalost discord).
 
+# Roadmap / Things I hope to implement in the future
+- [x] Inital Release
+- [ ] Have script reference database of all vocaranks that provide ids in their description
+- [ ] Have script reference database of ALL vocaranks
+- [ ] Ability to search by song's name instead of ID (useful for finding reprints that don't include nnd id, i.e. the majority.)
+
 # Credit:
 
 Credits to everyone who figured out the methods implemented in the script:
