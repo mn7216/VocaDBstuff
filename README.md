@@ -4,6 +4,8 @@ This Userscript aims to make the process of identifying, searching for, and arch
 
 ### Currently, it has a total of 18 functions, 5 for [User Pages](https://github.com/mn7216/Vocalost/wiki/User-Page) and 13 for [Video Pages](https://github.com/mn7216/Vocalost/wiki/Video-Pages). You can view the list of functions and what they do by clicking on the links or going to the [wiki](https://github.com/mn7216/Vocalost/wiki).
 
+As of 1.1, a [companion script for translating Nicolog](https://github.com/mn7216/Vocalost/wiki#nicolog-translation-helper) is available. 
+
 # Installation:
 
 Install a userscript manager such as [Greasemonkey](https://www.greasespot.net/), [Tampermonkey](https://www.tampermonkey.net/), or [Violentmonkey](https://violentmonkey.github.io/).
