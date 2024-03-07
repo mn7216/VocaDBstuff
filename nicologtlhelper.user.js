@@ -29,7 +29,7 @@
         '履歴はありません。': 'No history available.',
         '動画説明': 'Description: ‎ ',
         '取得日時': 'Archival Date/Time ‎ ',
-
+// The u+200E character is used cause html HATES multiple spaces and just compresses them into 1 which is annoying and looks bad so abuse this unicode character to get around it
     };
 
     const patternTranslations = [
@@ -55,7 +55,7 @@
     }},
     { from: /(\d+)時(\d+)分(\d+)秒/g, to: '$1:$2:$3' },
     ];
-
+// date conversion to western style
     function getDaySuffix(day) {
         const j = day % 10,
               k = day % 100;
