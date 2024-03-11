@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Vocalost Utils for NicoNico
 // @namespace    https://github.com/mn7216/Vocalost
-// @version      1.2
+// @version      1.3
 // @description  Make identifying, searching for, and archiving lost songs easier.
 // @author       MN_7216
 // @match        https://www.nicovideo.jp/watch/*
@@ -45,7 +45,7 @@
     }
     // 3. define the main features
     function generateTabsContent(isUserPage, baseId, numericId, pageUrl) {
-        const databaseMatch = database.find(entry => entry.id === baseId);
+        const databaseMatch = database.find(entry => entry.id === `sm${numericId}`);
 
         if (isUserPage) {
             return {
@@ -71,7 +71,7 @@
                 ],
                 'Database': databaseMatch ? [
                     { text: `Title: ${databaseMatch.title}` },
-                    { text: `Availability: ${databaseMatch.availability}`, url: `https://www.nicolog.jp/watch/${databaseMatch.id}` },
+                    { text: `Availability: ${databaseMatch.availability}`, url: `https://www.nicolog.jp/watch/${baseId}` },
                     { text: `Vocarank: ${databaseMatch.vocarank}`, url: `https://www.nicovideo.jp/watch/${getVocarankId(databaseMatch.vocarank)}` }
                 ] : [{ text: 'No match found in the database' }]
             };
