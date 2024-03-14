@@ -8,8 +8,8 @@
 // @match        https://www.nicovideo.jp/user/*
 // @grant        none
 // @require      https://raw.githubusercontent.com/mn7216/Vocalost/main/vocaranks/database.js
-// @updateURL    https://raw.githubusercontent.com/mn7216/Vocalost/main/vocalostutils.js
-// @downloadURL  https://raw.githubusercontent.com/mn7216/Vocalost/main/vocalostutils.js
+// @updateURL    https://raw.githubusercontent.com/mn7216/Vocalost/main/vocalostutils.user.js
+// @downloadURL  https://raw.githubusercontent.com/mn7216/Vocalost/main/vocalostutils.user.js
 // @supportURL   https://github.com/mn7216/Vocalost/issues
 // ==/UserScript==
 
