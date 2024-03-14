@@ -23068,5 +23068,4649 @@ const database = [
     "title": "2008下半期VOCALOID新曲ランキングSP PV・映像作品編",
     "availability": "Available",
     "vocarank": "2008上半期 VOCALOID新曲ランキングSP PV・MMD編"
+  },
+  {
+    "id": "Video ID",
+    "title": "Title",
+    "availability": "Availability",
+    "vocarank": ""
+  },
+  {
+    "id": "sm7764520",
+    "title": "贋GUMI新曲ランキング ～2009/7/5",
+    "availability": "Main Video",
+    "vocarank": "贋GUMI新曲ランキング ～2009/7/5"
+  },
+  {
+    "id": "sm7547144",
+    "title": "【メグッポイド】 プラウドビート No.8 【オリジナル】",
+    "availability": "Available",
+    "vocarank": "贋GUMI新曲ランキング ～2009/7/5"
+  },
+  {
+    "id": "sm7482275",
+    "title": "GUMIオリジナル「Liberty Heart」 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "贋GUMI新曲ランキング ～2009/7/5"
+  },
+  {
+    "id": "sm7532689",
+    "title": "【GUMI・がくっぽいど】 流恋華月 【オリジナルカバー】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "贋GUMI新曲ランキング ～2009/7/5"
+  },
+  {
+    "id": "nm7480546",
+    "title": "Nicolog fetch failed",
+    "availability": "Unavailable",
+    "vocarank": "贋GUMI新曲ランキング ～2009/7/5"
+  },
+  {
+    "id": "nm7510048",
+    "title": "【メグッポイド】make a little wish【オリジナル曲】",
+    "availability": "Available",
+    "vocarank": "贋GUMI新曲ランキング ～2009/7/5"
+  },
+  {
+    "id": "sm7493917",
+    "title": "【めぐぽ】幸せだったから【オリジナルイメージソング】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "贋GUMI新曲ランキング ～2009/7/5"
+  },
+  {
+    "id": "nm7489984",
+    "title": "【めぐっぽいど】新人様はとっても黒い【喋るよ】",
+    "availability": "Available",
+    "vocarank": "贋GUMI新曲ランキング ～2009/7/5"
+  },
+  {
+    "id": "sm7541004",
+    "title": "【棒歌GUMI】P名　言　っ　て　い　た　上　に　便　乗　し　遅　れ　る",
+    "availability": "Available",
+    "vocarank": "贋GUMI新曲ランキング ～2009/7/5"
+  },
+  {
+    "id": "sm7489000",
+    "title": "【メグッポイド】ビクトリア「アヴェ・マリア」(4声)【アカペラ】",
+    "availability": "Available",
+    "vocarank": "贋GUMI新曲ランキング ～2009/7/5"
+  },
+  {
+    "id": "sm7485248",
+    "title": "メグッポイドに「部屋とＹシャツと私」を歌わせてみた。(隅p)",
+    "availability": "Available",
+    "vocarank": "贋GUMI新曲ランキング ～2009/7/5"
+  },
+  {
+    "id": "sm7508103",
+    "title": "万引女【めぐっぽいど】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "贋GUMI新曲ランキング ～2009/7/5"
+  },
+  {
+    "id": "sm7541755",
+    "title": "【GUMI,初音ミク,巡音ルカ】TANABATA 〜星愛の宙〜【オリジナル七夕ソング】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "贋GUMI新曲ランキング ～2009/7/5"
+  },
+  {
+    "id": "nm7530430",
+    "title": "【メグッポイド】スタッカート♪【オリジナル曲】",
+    "availability": "Available",
+    "vocarank": "贋GUMI新曲ランキング ～2009/7/5"
+  },
+  {
+    "id": "nm7510006",
+    "title": "【ミク、GUMI】thrill for two【オリジナル曲】",
+    "availability": "Available",
+    "vocarank": "贋GUMI新曲ランキング ～2009/7/5"
+  },
+  {
+    "id": "sm7481902",
+    "title": "【メグッポイド】俺専用。【オリジナル】",
+    "availability": "Available",
+    "vocarank": "贋GUMI新曲ランキング ～2009/7/5"
+  },
+  {
+    "id": "sm7489827",
+    "title": "Liaの「鳥の詩」をメグッポイドで。 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "贋GUMI新曲ランキング ～2009/7/5"
+  },
+  {
+    "id": "nm7509252",
+    "title": "【メグッポイド】Read Only Memory【オリジナル曲】",
+    "availability": "Available",
+    "vocarank": "贋GUMI新曲ランキング ～2009/7/5"
+  },
+  {
+    "id": "nm7499570",
+    "title": "【メグッポイド】Wake Up！【オリジナル曲】",
+    "availability": "Available",
+    "vocarank": "贋GUMI新曲ランキング ～2009/7/5"
+  },
+  {
+    "id": "sm7511653",
+    "title": "みずたまり【メグッポイド】（オリジナル） - ニコニコ",
+    "availability": "Available",
+    "vocarank": "贋GUMI新曲ランキング ～2009/7/5"
+  },
+  {
+    "id": "sm7487908",
+    "title": "雪ぐみぐみ",
+    "availability": "Available",
+    "vocarank": "贋GUMI新曲ランキング ～2009/7/5"
+  },
+  {
+    "id": "sm7527597",
+    "title": "【メグッポイド(GUMI)】エクスカリバー -EXCALIBUR- 【オリジナル曲】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "贋GUMI新曲ランキング ～2009/7/5"
+  },
+  {
+    "id": "sm7484095",
+    "title": "Nicolog fetch failed",
+    "availability": "Unavailable",
+    "vocarank": "贋GUMI新曲ランキング ～2009/7/5"
+  },
+  {
+    "id": "sm7482197",
+    "title": "【メグッポイド(GUMI)】 セクスカリバー -SEXCALIBUR-　【オリジナル曲】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "贋GUMI新曲ランキング ～2009/7/5"
+  },
+  {
+    "id": "nm7486914",
+    "title": "【GUMI】マジで恋する5分前【メグッポイドオリジナル】",
+    "availability": "Available",
+    "vocarank": "贋GUMI新曲ランキング ～2009/7/5"
+  },
+  {
+    "id": "sm7546989",
+    "title": "メグッポイドで Miracle∞Gumiracle 【東方vocalカバー】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "贋GUMI新曲ランキング ～2009/7/5"
+  },
+  {
+    "id": "sm7763838",
+    "title": "贋GUMI新曲ランキング ～2009/6/28",
+    "availability": "Available",
+    "vocarank": "贋GUMI新曲ランキング ～2009/7/5"
+  },
+  {
+    "id": "sm7764680",
+    "title": "贋GUMI新曲ランキング ～2009/7/12",
+    "availability": "Available",
+    "vocarank": "贋GUMI新曲ランキング ～2009/7/5"
+  },
+  {
+    "id": "Video ID",
+    "title": "Title",
+    "availability": "Availability",
+    "vocarank": "贋GUMI新曲ランキング ～2009/7/5"
+  },
+  {
+    "id": "sm7764680",
+    "title": "贋GUMI新曲ランキング ～2009/7/12",
+    "availability": "Main Video",
+    "vocarank": "贋GUMI新曲ランキング ～2009/7/12"
+  },
+  {
+    "id": "nm7596570",
+    "title": "【メグッポイド】smile(^ ^)【オリジナル】",
+    "availability": "Available",
+    "vocarank": "贋GUMI新曲ランキング ～2009/7/12"
+  },
+  {
+    "id": "sm7597329",
+    "title": "【めぐぽ（40㍍）】青空ライン【オリジナル曲】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "贋GUMI新曲ランキング ～2009/7/12"
+  },
+  {
+    "id": "sm7610111",
+    "title": "【めぐっぽいどオリジナル曲】ぼくらの１６ｂｉｔ戦争【ＰＶ】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "贋GUMI新曲ランキング ～2009/7/12"
+  },
+  {
+    "id": "sm7559438",
+    "title": "七色のヘタリア動画 を歌わせてみた",
+    "availability": "Available",
+    "vocarank": "贋GUMI新曲ランキング ～2009/7/12"
+  },
+  {
+    "id": "sm7575293",
+    "title": "【Megpoid GUMI】　めぐぽさんが歌う『記憶』　【フナコシPカバー】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "贋GUMI新曲ランキング ～2009/7/12"
+  },
+  {
+    "id": "sm7570412",
+    "title": "【GUMI声転換】under the darkness【MUGI？】",
+    "availability": "Available",
+    "vocarank": "贋GUMI新曲ランキング ～2009/7/12"
+  },
+  {
+    "id": "sm7575754",
+    "title": "GUMIが歌ってくれたオリジナル曲「To　Be!!　//がんばれ女の子ver.」",
+    "availability": "Unavailable",
+    "vocarank": "贋GUMI新曲ランキング ～2009/7/12"
+  },
+  {
+    "id": "sm7566549",
+    "title": "【メグッポイド】 大漁船 【ぼかりす】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "贋GUMI新曲ランキング ～2009/7/12"
+  },
+  {
+    "id": "nm7549215",
+    "title": "【メグッポイド】June【オリジナル】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "贋GUMI新曲ランキング ～2009/7/12"
+  },
+  {
+    "id": "nm7557136",
+    "title": "【Netぼかりすα】グリーンアイズ【GUMIオリ曲】いーえるP×たま葱×飯時",
+    "availability": "Unavailable",
+    "vocarank": "贋GUMI新曲ランキング ～2009/7/12"
+  },
+  {
+    "id": "nm7601701",
+    "title": "カントリーガール / GUMI - ニコニコ",
+    "availability": "Available",
+    "vocarank": "贋GUMI新曲ランキング ～2009/7/12"
+  },
+  {
+    "id": "sm7566674",
+    "title": "【鏡音リン？オリジナル】HOLIDAY DRIVE",
+    "availability": "Available",
+    "vocarank": "贋GUMI新曲ランキング ～2009/7/12"
+  },
+  {
+    "id": "sm7611067",
+    "title": "Nicolog fetch failed",
+    "availability": "Unavailable",
+    "vocarank": "贋GUMI新曲ランキング ～2009/7/12"
+  },
+  {
+    "id": "sm7587952",
+    "title": "【メグッポイド】　冬街エンゼルフィッシュ　【GUMIオリジナル曲】",
+    "availability": "Available",
+    "vocarank": "贋GUMI新曲ランキング ～2009/7/12"
+  },
+  {
+    "id": "nm7574183",
+    "title": "【メグッポイド】可愛い女でなくていい【オリジナル】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "贋GUMI新曲ランキング ～2009/7/12"
+  },
+  {
+    "id": "sm7552821",
+    "title": "【VOCALOIDめぐぽがくぽ】リトルグッバイ【ゼーガペインED】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "贋GUMI新曲ランキング ～2009/7/12"
+  },
+  {
+    "id": "sm7579676",
+    "title": "【メグッポイド】 Kind Regards 【GUMIオリジナル】",
+    "availability": "Available",
+    "vocarank": "贋GUMI新曲ランキング ～2009/7/12"
+  },
+  {
+    "id": "nm7569227",
+    "title": "【メグッポイド】らん☆らん★スターロード【オリジナル曲】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "贋GUMI新曲ランキング ～2009/7/12"
+  },
+  {
+    "id": "nm7561577",
+    "title": "【メグッポイド】 サテライト 【オリジナル】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "贋GUMI新曲ランキング ～2009/7/12"
+  },
+  {
+    "id": "sm7551611",
+    "title": "【メグッポイド】 やまない雨 【オリジナル】 by 日蝕P×遺作P - ニコニコ",
+    "availability": "Available",
+    "vocarank": "贋GUMI新曲ランキング ～2009/7/12"
+  },
+  {
+    "id": "sm7593810",
+    "title": "【メグッポイド(GUMI)】 Cheering Song 【オリジナル曲】",
+    "availability": "Available",
+    "vocarank": "贋GUMI新曲ランキング ～2009/7/12"
+  },
+  {
+    "id": "sm7568432",
+    "title": "【メグッポイド】 final letter 【ファイナルレター】【オリジナル】",
+    "availability": "Available",
+    "vocarank": "贋GUMI新曲ランキング ～2009/7/12"
+  },
+  {
+    "id": "sm7561464",
+    "title": "【GUMI】「777はラッキーキッス♡」オリジナル曲",
+    "availability": "Available",
+    "vocarank": "贋GUMI新曲ランキング ～2009/7/12"
+  },
+  {
+    "id": "sm7558727",
+    "title": "メグッポイドで うしろまえワルツ 【VOCALOID曲カバー】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "贋GUMI新曲ランキング ～2009/7/12"
+  },
+  {
+    "id": "nm7597023",
+    "title": "【GUMI】アリスにさよなら【オリジナル曲やで】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "贋GUMI新曲ランキング ～2009/7/12"
+  },
+  {
+    "id": "sm7610187",
+    "title": "【めぐっぽいど＋初音ミク】GummyBearSong-ムビギュビジャミスィギRMX-【PV】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "贋GUMI新曲ランキング ～2009/7/12"
+  },
+  {
+    "id": "sm7764520",
+    "title": "贋GUMI新曲ランキング ～2009/7/5",
+    "availability": "Available",
+    "vocarank": "贋GUMI新曲ランキング ～2009/7/12"
+  },
+  {
+    "id": "sm7764782",
+    "title": "贋GUMI新曲ランキング ～2009/7/19",
+    "availability": "Available",
+    "vocarank": "贋GUMI新曲ランキング ～2009/7/12"
+  },
+  {
+    "id": "Video ID",
+    "title": "Title",
+    "availability": "Availability",
+    "vocarank": "贋GUMI新曲ランキング ～2009/7/12"
+  },
+  {
+    "id": "sm7764782",
+    "title": "贋GUMI新曲ランキング ～2009/7/19",
+    "availability": "Main Video",
+    "vocarank": "贋GUMI新曲ランキング ～2009/7/19"
+  },
+  {
+    "id": "nm7674409",
+    "title": "【メグッポイド】Little Ghost【オリジナル】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "贋GUMI新曲ランキング ～2009/7/19"
+  },
+  {
+    "id": "nm7667275",
+    "title": "【初音ミク/巡音ルカ/メグッポイド】太平洋高気圧（オリジナル曲No.28） - ニコニコ",
+    "availability": "Available",
+    "vocarank": "贋GUMI新曲ランキング ～2009/7/19"
+  },
+  {
+    "id": "sm7608475",
+    "title": "地獄のズバット feat.GUMI - ニコニコ",
+    "availability": "Available",
+    "vocarank": "贋GUMI新曲ランキング ～2009/7/19"
+  },
+  {
+    "id": "sm7617969",
+    "title": "【メグッポイド】 セクシャルバイオレンス懲役二年 (オリジナル) 【GUMI】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "贋GUMI新曲ランキング ～2009/7/19"
+  },
+  {
+    "id": "nm7662409",
+    "title": "Nicolog fetch failed",
+    "availability": "Unavailable",
+    "vocarank": "贋GUMI新曲ランキング ～2009/7/19"
+  },
+  {
+    "id": "sm7682725",
+    "title": "【メグッポイド】ねえせんせ、【オリジナル】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "贋GUMI新曲ランキング ～2009/7/19"
+  },
+  {
+    "id": "nm7663805",
+    "title": "【GUMI】 Eternity 【オリジナル】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "贋GUMI新曲ランキング ～2009/7/19"
+  },
+  {
+    "id": "sm7660585",
+    "title": "【GUMI】　虹　【電気グルーヴカバー】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "贋GUMI新曲ランキング ～2009/7/19"
+  },
+  {
+    "id": "sm7662992",
+    "title": "Nicolog fetch failed",
+    "availability": "Unavailable",
+    "vocarank": "贋GUMI新曲ランキング ～2009/7/19"
+  },
+  {
+    "id": "sm7652706",
+    "title": "【メグッポイド】雨の日、君の歌【オリジナル】",
+    "availability": "Available",
+    "vocarank": "贋GUMI新曲ランキング ～2009/7/19"
+  },
+  {
+    "id": "sm7620826",
+    "title": "【トークロイド】 ボーカロイドたちの日常11 『レンとグミの約束』",
+    "availability": "Available",
+    "vocarank": "贋GUMI新曲ランキング ～2009/7/19"
+  },
+  {
+    "id": "sm7636557",
+    "title": "【メグッポイド】NEWアタック高活性バイオ酵素【オリジナル曲】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "贋GUMI新曲ランキング ～2009/7/19"
+  },
+  {
+    "id": "sm7645750",
+    "title": "ワンダフル・ガイズ（西部警察PART-II・IIIのテーマ） feat.VOCALOIDS",
+    "availability": "Available",
+    "vocarank": "贋GUMI新曲ランキング ～2009/7/19"
+  },
+  {
+    "id": "sm7662825",
+    "title": "Nicolog fetch failed",
+    "availability": "Unavailable",
+    "vocarank": "贋GUMI新曲ランキング ～2009/7/19"
+  },
+  {
+    "id": "nm7654705",
+    "title": "【メグッポイド】Possibles 【オリジナル曲】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "贋GUMI新曲ランキング ～2009/7/19"
+  },
+  {
+    "id": "sm7764680",
+    "title": "贋GUMI新曲ランキング ～2009/7/12",
+    "availability": "Available",
+    "vocarank": "贋GUMI新曲ランキング ～2009/7/19"
+  },
+  {
+    "id": "sm7764822",
+    "title": "Megpoid歌わせ歌ってみた祭WATCH",
+    "availability": "Available",
+    "vocarank": "贋GUMI新曲ランキング ～2009/7/19"
+  },
+  {
+    "id": "sm7764858",
+    "title": "暫定版GUMI新曲ランキング ～2009/7/26",
+    "availability": "Available",
+    "vocarank": "贋GUMI新曲ランキング ～2009/7/19"
+  },
+  {
+    "id": "Video ID",
+    "title": "Title",
+    "availability": "Availability",
+    "vocarank": "贋GUMI新曲ランキング ～2009/7/19"
+  },
+  {
+    "id": "sm7764858",
+    "title": "暫定版GUMI新曲ランキング ～2009/7/26",
+    "availability": "Main Video",
+    "vocarank": "暫定版GUMI新曲ランキング ～2009/7/26"
+  },
+  {
+    "id": "nm7674409",
+    "title": "【メグッポイド】Little Ghost【オリジナル】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版GUMI新曲ランキング ～2009/7/26"
+  },
+  {
+    "id": "sm7717554",
+    "title": "Nicolog fetch failed",
+    "availability": "Unavailable",
+    "vocarank": "暫定版GUMI新曲ランキング ～2009/7/26"
+  },
+  {
+    "id": "sm7749636",
+    "title": "Nicolog fetch failed",
+    "availability": "Unavailable",
+    "vocarank": "暫定版GUMI新曲ランキング ～2009/7/26"
+  },
+  {
+    "id": "sm7628774",
+    "title": "ラジオ体操の歌 feat.GUMI",
+    "availability": "Available",
+    "vocarank": "暫定版GUMI新曲ランキング ～2009/7/26"
+  },
+  {
+    "id": "sm7726183",
+    "title": "Nicolog fetch failed",
+    "availability": "Unavailable",
+    "vocarank": "暫定版GUMI新曲ランキング ～2009/7/26"
+  },
+  {
+    "id": "sm7683321",
+    "title": "【メグッポイド】大切なもの【グミオリジナル】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版GUMI新曲ランキング ～2009/7/26"
+  },
+  {
+    "id": "sm7736093",
+    "title": "【メグッポイド】わしの名を呼んで欲しいのじゃ【秀吉キャラソン】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版GUMI新曲ランキング ～2009/7/26"
+  },
+  {
+    "id": "sm7730216",
+    "title": "【メグッポイド】素直になんかなってあげない【オリジナル曲】",
+    "availability": "Available",
+    "vocarank": "暫定版GUMI新曲ランキング ～2009/7/26"
+  },
+  {
+    "id": "nm7705383",
+    "title": "【グミ・ルカ・ミク百合】妖艶【オリジナル】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版GUMI新曲ランキング ～2009/7/26"
+  },
+  {
+    "id": "sm7735448",
+    "title": "【星間飛行替え歌】モエッ☆ＢＬ飛行　歌わせてみた【メグッポイド】",
+    "availability": "Available",
+    "vocarank": "暫定版GUMI新曲ランキング ～2009/7/26"
+  },
+  {
+    "id": "sm7750752",
+    "title": "【メグッポイド】ランカの3大アヴェ・マリア（シューベルト）",
+    "availability": "Available",
+    "vocarank": "暫定版GUMI新曲ランキング ～2009/7/26"
+  },
+  {
+    "id": "sm7746411",
+    "title": "【トークロイド】 ボーカロイドたちの日常12 『カイトのストライキ』 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版GUMI新曲ランキング ～2009/7/26"
+  },
+  {
+    "id": "sm7702030",
+    "title": "【GUMIオリジナル】Love☆Sunflower【メグッポイド】",
+    "availability": "Unavailable",
+    "vocarank": "暫定版GUMI新曲ランキング ～2009/7/26"
+  },
+  {
+    "id": "sm7726599",
+    "title": "【ボサで】日本語ボカロ全員聴き比べ【Netぼかりすα版】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版GUMI新曲ランキング ～2009/7/26"
+  },
+  {
+    "id": "sm7697437",
+    "title": "めぐっぽいどの歌唱力テストで「星間飛行」（GUMI）",
+    "availability": "Unavailable",
+    "vocarank": "暫定版GUMI新曲ランキング ～2009/7/26"
+  },
+  {
+    "id": "sm7726336",
+    "title": "【メグッポイド】 夜間徐行 (オリジナル) 【GUMI】",
+    "availability": "Available",
+    "vocarank": "暫定版GUMI新曲ランキング ～2009/7/26"
+  },
+  {
+    "id": "sm7703012",
+    "title": "【メグッポイド】緑の月【カバー曲】",
+    "availability": "Available",
+    "vocarank": "暫定版GUMI新曲ランキング ～2009/7/26"
+  },
+  {
+    "id": "sm7724876",
+    "title": "【メグッポイド】FULLMOON【オリジナル曲】",
+    "availability": "Available",
+    "vocarank": "暫定版GUMI新曲ランキング ～2009/7/26"
+  },
+  {
+    "id": "sm7704983",
+    "title": "【ソニカ】 magnet 【メグッポイド】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版GUMI新曲ランキング ～2009/7/26"
+  },
+  {
+    "id": "sm7728955",
+    "title": "【GUMI・めぐっぽいど】蝶のワルツ【コラボ・オリジナル曲】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版GUMI新曲ランキング ～2009/7/26"
+  },
+  {
+    "id": "nm7693544",
+    "title": "（皆既日食）【メグッポイド】CORONA【オリジナル曲】",
+    "availability": "Available",
+    "vocarank": "暫定版GUMI新曲ランキング ～2009/7/26"
+  },
+  {
+    "id": "sm7733474",
+    "title": "「 メグッポイド がオリジナル曲『 Attractive Rainbow 』を唄う」の巻",
+    "availability": "Available",
+    "vocarank": "暫定版GUMI新曲ランキング ～2009/7/26"
+  },
+  {
+    "id": "sm7713545",
+    "title": "【全入り】 magnet - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版GUMI新曲ランキング ～2009/7/26"
+  },
+  {
+    "id": "sm7697485",
+    "title": "【メグッポイド】 禁じられた誘惑 【オリジナル】 by 遺作P - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版GUMI新曲ランキング ～2009/7/26"
+  },
+  {
+    "id": "sm7707089",
+    "title": "【メグッポイド】花蝶風月【和風オリジナル】+mp3 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版GUMI新曲ランキング ～2009/7/26"
+  },
+  {
+    "id": "sm7685188",
+    "title": "【メグッポイド】有明飛行【星間飛行替え歌】",
+    "availability": "Available",
+    "vocarank": "暫定版GUMI新曲ランキング ～2009/7/26"
+  },
+  {
+    "id": "sm7686589",
+    "title": "【GUMI＆初音ミク】それいけ！自分大革命！【オリジナル曲】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版GUMI新曲ランキング ～2009/7/26"
+  },
+  {
+    "id": "sm7764782",
+    "title": "贋GUMI新曲ランキング ～2009/7/19",
+    "availability": "Available",
+    "vocarank": "暫定版GUMI新曲ランキング ～2009/7/26"
+  },
+  {
+    "id": "sm7764822",
+    "title": "Megpoid歌わせ歌ってみた祭WATCH",
+    "availability": "Available",
+    "vocarank": "暫定版GUMI新曲ランキング ～2009/7/26"
+  },
+  {
+    "id": "sm7833382",
+    "title": "暫定版 GUMI新曲ランキング ～2009/8/2",
+    "availability": "Available",
+    "vocarank": "暫定版GUMI新曲ランキング ～2009/7/26"
+  },
+  {
+    "id": "Video ID",
+    "title": "Title",
+    "availability": "Availability",
+    "vocarank": "暫定版GUMI新曲ランキング ～2009/7/26"
+  },
+  {
+    "id": "sm7833382",
+    "title": "暫定版 GUMI新曲ランキング ～2009/8/2",
+    "availability": "Main Video",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/8/2"
+  },
+  {
+    "id": "nm7816845",
+    "title": "【メグッポイド】　乙女のメロディー　【オリジナル曲】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/8/2"
+  },
+  {
+    "id": "sm7805251",
+    "title": "【VOCALOID】ニコニコ替え唄メドレー 番外編【ほぼ昭和】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/8/2"
+  },
+  {
+    "id": "sm7755997",
+    "title": "GUMI・鏡音リンオリジナル「Always and Forever」 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/8/2"
+  },
+  {
+    "id": "nm7805577",
+    "title": "【メグッポイド】【オリジナル曲】　青い鳥の様に　vocal GUMI - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/8/2"
+  },
+  {
+    "id": "sm7688253",
+    "title": "Nicolog fetch failed",
+    "availability": "Unavailable",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/8/2"
+  },
+  {
+    "id": "sm7786272",
+    "title": "【めぐっぽいど】燃えろ強打者！めぐぽのテーマ【オリジナル】",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/8/2"
+  },
+  {
+    "id": "sm7812016",
+    "title": "【めぐっぽいど！】 Reset 【ピアノアレンジ】",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/8/2"
+  },
+  {
+    "id": "sm7710284",
+    "title": "【メグッポイド(GUMI)】　彩夏(オリジナル)　【tak】",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/8/2"
+  },
+  {
+    "id": "sm7737773",
+    "title": "【メグッポイド】初恋 limited【初恋限定。】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/8/2"
+  },
+  {
+    "id": "nm7778234",
+    "title": "Nicolog fetch failed",
+    "availability": "Unavailable",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/8/2"
+  },
+  {
+    "id": "nm7760041",
+    "title": "Nicolog fetch failed",
+    "availability": "Unavailable",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/8/2"
+  },
+  {
+    "id": "sm7790891",
+    "title": "【ルカ・めぐっぽ】トライアングラー【マクロスF】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/8/2"
+  },
+  {
+    "id": "sm7751052",
+    "title": "【がくぽとGUMIが歌っちゃうオリジナル曲】GOING HOME",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/8/2"
+  },
+  {
+    "id": "nm7716442",
+    "title": "【メグッポイド】【オリジナル曲】　夏は刹那　vocal GUMI",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/8/2"
+  },
+  {
+    "id": "nm7782017",
+    "title": "【グミ】デートしようよ♪【オリジナル】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/8/2"
+  },
+  {
+    "id": "sm7784282",
+    "title": "【メグッポイド】軌道アイドルめぐぽぽ Op. 音のみfix【オリジナル】",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/8/2"
+  },
+  {
+    "id": "sm7770043",
+    "title": "【メグッポイド】3M メルト Gakupo Gumi Rap Remix【がくっぽいど】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/8/2"
+  },
+  {
+    "id": "sm7783779",
+    "title": "Tank!-COWBOY BEBOPより- feat.VOCALOIDS - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/8/2"
+  },
+  {
+    "id": "sm7794402",
+    "title": "【GUMI】よろしくグミグミGOOD! 【オリジナル曲】",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/8/2"
+  },
+  {
+    "id": "sm7759537",
+    "title": "【メグッポイド】call me【オリジナル曲】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/8/2"
+  },
+  {
+    "id": "nm7752158",
+    "title": "【がくっぽいど】happy birthday【誕生日】",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/8/2"
+  },
+  {
+    "id": "sm7792851",
+    "title": "【GUMI】ディア・エムエーエムエー【オリジナル曲】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/8/2"
+  },
+  {
+    "id": "sm7771057",
+    "title": "【メグッポイド】blue bird (AM5:00 mix)【Remix】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/8/2"
+  },
+  {
+    "id": "nm7819268",
+    "title": "【メグッポイド】ポイっちゃお？【オリジナル】",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/8/2"
+  },
+  {
+    "id": "sm7764926",
+    "title": "アビサス・アビサム",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/8/2"
+  },
+  {
+    "id": "nm7806214",
+    "title": "【GUMI】 LAST YEAR 【オリジナル！】",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/8/2"
+  },
+  {
+    "id": "sm7752900",
+    "title": "ボカロ類による七色のニコニコ動画",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/8/2"
+  },
+  {
+    "id": "sm7773749",
+    "title": "うちのボカロほぼ全員で「娘々スペシャルサービスメドレー（特盛り）」 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/8/2"
+  },
+  {
+    "id": "nm7764387",
+    "title": "【GUMI】わんわんお！【Flashテスト】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/8/2"
+  },
+  {
+    "id": "sm7756392",
+    "title": "★　白鬼ノ姫と修羅ノ天子　序の幕【がくっぽいどGUMIオリジナル】",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/8/2"
+  },
+  {
+    "id": "nm7815363",
+    "title": "【GUMI】 赤い雨 【オリジナル！】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/8/2"
+  },
+  {
+    "id": "sm7763273",
+    "title": "【メグッポイド】 大丈夫だよっ！ 【オリジナル曲】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/8/2"
+  },
+  {
+    "id": "nm7775042",
+    "title": "初音ミクとめぐっぽいどでオリジナル曲　『ソラノシルシ』",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/8/2"
+  },
+  {
+    "id": "sm7755949",
+    "title": "【メグッポイド】 雨つぶDANCE 【オリジナル曲】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/8/2"
+  },
+  {
+    "id": "sm7764858",
+    "title": "暫定版GUMI新曲ランキング ～2009/7/26",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/8/2"
+  },
+  {
+    "id": "sm7899829",
+    "title": "暫定版 GUMI新曲ランキング ～2009/8/9 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/8/2"
+  },
+  {
+    "id": "Video ID",
+    "title": "Title",
+    "availability": "Availability",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/8/2"
+  },
+  {
+    "id": "sm7899829",
+    "title": "暫定版 GUMI新曲ランキング ～2009/8/9",
+    "availability": "Main Video",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/8/9"
+  },
+  {
+    "id": "sm7855864",
+    "title": "Nicolog fetch failed",
+    "availability": "Unavailable",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/8/9"
+  },
+  {
+    "id": "sm7822559",
+    "title": "【GUMI】スターマイン【オリジナル曲やで】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/8/9"
+  },
+  {
+    "id": "sm7829700",
+    "title": "Nicolog fetch failed",
+    "availability": "Unavailable",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/8/9"
+  },
+  {
+    "id": "sm7846549",
+    "title": "【メグッポイド(megpoid)】この世界のカケラだから【GUMI オリジナル曲】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/8/9"
+  },
+  {
+    "id": "sm7861457",
+    "title": "【メグッポイド・MEIKO】　桜姫（Gumi-Meiko.ver）　【オリジナル】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/8/9"
+  },
+  {
+    "id": "nm7880722",
+    "title": "【初音ミク】 S･O･S （ピコピコカバー） 【GUMI】",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/8/9"
+  },
+  {
+    "id": "sm7885541",
+    "title": "愛よファラウェイ feat.GUMI - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/8/9"
+  },
+  {
+    "id": "nm7771732",
+    "title": "メグッポイドにこの広い野原いっぱいを歌ってもらった",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/8/9"
+  },
+  {
+    "id": "nm7794210",
+    "title": "【がくっぽいど・グミ】【トークロイド】売り出し中",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/8/9"
+  },
+  {
+    "id": "sm7832156",
+    "title": "仮面ライダーBLACK feat.GUMI",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/8/9"
+  },
+  {
+    "id": "sm7840543",
+    "title": "【メグッポイド】　桜姫（Gumi.ver）　【オリジナル】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/8/9"
+  },
+  {
+    "id": "sm7879755",
+    "title": "【メグッポイド】けんか別れ - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/8/9"
+  },
+  {
+    "id": "nm7816845",
+    "title": "【メグッポイド】　乙女のメロディー　【オリジナル曲】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/8/9"
+  },
+  {
+    "id": "nm7823295",
+    "title": "Nicolog fetch failed",
+    "availability": "Unavailable",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/8/9"
+  },
+  {
+    "id": "sm7846069",
+    "title": "【メグッポイド】 遥かな想い 【ぼかりす】(GEN=64) - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/8/9"
+  },
+  {
+    "id": "sm7846105",
+    "title": "【メグッポイド】 遥かな想い 【ぼかりす】(GEN=90) - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/8/9"
+  },
+  {
+    "id": "nm7849292",
+    "title": "【メグッポイド】after Dreams...【オリジナル曲】",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/8/9"
+  },
+  {
+    "id": "sm7871824",
+    "title": "【メグッポイド】残酷な天使のテーゼ【新世紀エヴァンゲリオン】",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/8/9"
+  },
+  {
+    "id": "sm7846083",
+    "title": "【メグッポイド】 遥かな想い 【ぼかりす】(GEN=40) - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/8/9"
+  },
+  {
+    "id": "sm7857421",
+    "title": "Nicolog fetch failed",
+    "availability": "Unavailable",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/8/9"
+  },
+  {
+    "id": "sm7862493",
+    "title": "Nicolog fetch failed",
+    "availability": "Unavailable",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/8/9"
+  },
+  {
+    "id": "sm7884923",
+    "title": "【めぐぽ】みんなでぽかぽか♪ - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/8/9"
+  },
+  {
+    "id": "sm7866477",
+    "title": "【GUMI】オリジナル曲「Prologue～星の語り部～」 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/8/9"
+  },
+  {
+    "id": "nm7842524",
+    "title": "【メグッポイド】電車でGOGO名古屋編",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/8/9"
+  },
+  {
+    "id": "sm7821503",
+    "title": "【メグッポイド(GUMI)】　daylight　【オリジナル】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/8/9"
+  },
+  {
+    "id": "sm7840276",
+    "title": "【レインボーカロイド】　桜姫/8人合唱　【オリジナル】",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/8/9"
+  },
+  {
+    "id": "nm7883055",
+    "title": "さだまさしさんの「祈り」を原爆忌に日本のVOCALOID全員で歌う - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/8/9"
+  },
+  {
+    "id": "nm7864406",
+    "title": "【めぐっぽいど☆オリジナル】SQUALL",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/8/9"
+  },
+  {
+    "id": "sm7860416",
+    "title": "Nicolog fetch failed",
+    "availability": "Unavailable",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/8/9"
+  },
+  {
+    "id": "sm7864854",
+    "title": "【トークロイド】ボーカロイドたちの日常13 『突然の訪問客』",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/8/9"
+  },
+  {
+    "id": "nm7881929",
+    "title": "【メグッポイド】秘密の丘【オリジナル曲】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/8/9"
+  },
+  {
+    "id": "sm7851282",
+    "title": "VOCALOIDSでヱヴァ新劇場版主題歌「Beautiful World」",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/8/9"
+  },
+  {
+    "id": "sm7824372",
+    "title": "Nicolog fetch failed",
+    "availability": "Unavailable",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/8/9"
+  },
+  {
+    "id": "sm7860803",
+    "title": "ゆうきまさみ×kz(livetune) 「Crosslight」とらのあな店頭ムービー - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/8/9"
+  },
+  {
+    "id": "nm7832261",
+    "title": "【GUMI】わんわんお！【脱力系オリジナル】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/8/9"
+  },
+  {
+    "id": "sm7833382",
+    "title": "暫定版 GUMI新曲ランキング ～2009/8/2",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/8/9"
+  },
+  {
+    "id": "sm7967300",
+    "title": "暫定版 GUMI新曲ランキング ～2009/8/16",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/8/9"
+  },
+  {
+    "id": "Video ID",
+    "title": "Title",
+    "availability": "Availability",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/8/9"
+  },
+  {
+    "id": "sm7967300",
+    "title": "暫定版 GUMI新曲ランキング ～2009/8/16",
+    "availability": "Main Video",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/8/16"
+  },
+  {
+    "id": "sm7952618",
+    "title": "【メグッポイド】　フレンズ　【羽二重餅】",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/8/16"
+  },
+  {
+    "id": "sm7900801",
+    "title": "【メグッポイド(megpoid)】めぐぽグミの葛藤【GUMI オリジナル曲】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/8/16"
+  },
+  {
+    "id": "sm7921502",
+    "title": "【メグッポイド】時を刻む唄【CLANNAD】",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/8/16"
+  },
+  {
+    "id": "sm7922675",
+    "title": "【メグッポイド】　残酷な天使のテーゼ　【2】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/8/16"
+  },
+  {
+    "id": "sm7930107",
+    "title": "Nicolog fetch failed",
+    "availability": "Unavailable",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/8/16"
+  },
+  {
+    "id": "nm7915103",
+    "title": "【megpoid】 平安girl 【オリジナル】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/8/16"
+  },
+  {
+    "id": "sm7928678",
+    "title": "【メグッポイド(GUMI)】　赤砂の夢　【オリジナル】",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/8/16"
+  },
+  {
+    "id": "sm7941286",
+    "title": "Nicolog fetch failed",
+    "availability": "Unavailable",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/8/16"
+  },
+  {
+    "id": "sm7849520",
+    "title": "[VOCALOID] TSUNAMI [合唱]",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/8/16"
+  },
+  {
+    "id": "nm7939974",
+    "title": "【ボーカロイド】 日立の樹(別バージョン) 【カバー】",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/8/16"
+  },
+  {
+    "id": "nm7942058",
+    "title": "【メグッポイド】 夏のルール （オリジナル曲）",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/8/16"
+  },
+  {
+    "id": "nm7937489",
+    "title": "Nicolog fetch failed",
+    "availability": "Unavailable",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/8/16"
+  },
+  {
+    "id": "sm7895764",
+    "title": "【メグッポイド】星間飛行【課題曲】",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/8/16"
+  },
+  {
+    "id": "nm7937794",
+    "title": "鏡音レン他「新・天地の歌」(オリジナル曲)",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/8/16"
+  },
+  {
+    "id": "sm7917281",
+    "title": "Nicolog fetch failed",
+    "availability": "Unavailable",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/8/16"
+  },
+  {
+    "id": "nm7922249",
+    "title": "【ルカ様メインで】プールサイド作戦【オリジナル曲】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/8/16"
+  },
+  {
+    "id": "sm7943122",
+    "title": "Nicolog fetch failed",
+    "availability": "Unavailable",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/8/16"
+  },
+  {
+    "id": "sm7947344",
+    "title": "ワンダフル・ガイズ フルver. feat.VOCALOIDS",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/8/16"
+  },
+  {
+    "id": "sm7948579",
+    "title": "【メグッポイド】星間飛行やってみた - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/8/16"
+  },
+  {
+    "id": "sm7946933",
+    "title": "【ボーカロイド合唱団】涙をこえて【混声３部】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/8/16"
+  },
+  {
+    "id": "nm7912579",
+    "title": "Nicolog fetch failed",
+    "availability": "Unavailable",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/8/16"
+  },
+  {
+    "id": "sm7926902",
+    "title": "siGrE 【メグッポイド/がくっぽいど】",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/8/16"
+  },
+  {
+    "id": "sm7940422",
+    "title": "メグッポイド「赤い雨」歌ってみた【Snow】",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/8/16"
+  },
+  {
+    "id": "sm7941683",
+    "title": "【GUMI】世界は僕を中心に廻れ【オリジナル曲】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/8/16"
+  },
+  {
+    "id": "sm7900727",
+    "title": "【メグッポイド】After/Life【GUMIオリジナル曲】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/8/16"
+  },
+  {
+    "id": "sm7895029",
+    "title": "【メグッポイド】 トランス脂肪酸 (オリジナル) 【GUMI】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/8/16"
+  },
+  {
+    "id": "sm7920109",
+    "title": "Nicolog fetch failed",
+    "availability": "Unavailable",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/8/16"
+  },
+  {
+    "id": "sm7928710",
+    "title": "【メグッポイドカバー】マクロスF：アイモ作ったけど【力尽きた】",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/8/16"
+  },
+  {
+    "id": "nm7890610",
+    "title": "Nicolog fetch failed",
+    "availability": "Unavailable",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/8/16"
+  },
+  {
+    "id": "sm7945251",
+    "title": "【GUMI】 Last Sunset 【オリジナル曲】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/8/16"
+  },
+  {
+    "id": "sm7904439",
+    "title": "【東方PV】融通が利かない程度の能力【Megpoidに歌わせてみた】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/8/16"
+  },
+  {
+    "id": "sm7914776",
+    "title": "【GUMI】 name of memory 【オリジナル！】",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/8/16"
+  },
+  {
+    "id": "sm7938079",
+    "title": "【メグッポイド】Belvedia【カバー】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/8/16"
+  },
+  {
+    "id": "sm7934259",
+    "title": "【第3回MMD杯本選】バックベアード様がみてる - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/8/16"
+  },
+  {
+    "id": "sm7899829",
+    "title": "暫定版 GUMI新曲ランキング ～2009/8/9 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/8/16"
+  },
+  {
+    "id": "sm8034349",
+    "title": "暫定版 GUMI新曲ランキング ～2009/8/23 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/8/16"
+  },
+  {
+    "id": "Video ID",
+    "title": "Title",
+    "availability": "Availability",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/8/16"
+  },
+  {
+    "id": "sm8034349",
+    "title": "暫定版 GUMI新曲ランキング ～2009/8/23",
+    "availability": "Main Video",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/8/23"
+  },
+  {
+    "id": "sm7952618",
+    "title": "【メグッポイド】　フレンズ　【羽二重餅】",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/8/23"
+  },
+  {
+    "id": "sm7926731",
+    "title": "Nicolog fetch failed",
+    "availability": "Unavailable",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/8/23"
+  },
+  {
+    "id": "sm7957028",
+    "title": "【Megpoid】 ５ｃｍな恋 【青春っていいですねＰＯＰ】",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/8/23"
+  },
+  {
+    "id": "sm7893110",
+    "title": "Nicolog fetch failed",
+    "availability": "Unavailable",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/8/23"
+  },
+  {
+    "id": "sm7989900",
+    "title": "【メグッポイド】 だらだらとIt's all right (オリジナル) 【GUMI】",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/8/23"
+  },
+  {
+    "id": "nm7938669",
+    "title": "メグッポイドにわたしの城下町を歌ってもらった - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/8/23"
+  },
+  {
+    "id": "sm7962930",
+    "title": "【メグッポイド】翼【グミオリジナル】",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/8/23"
+  },
+  {
+    "id": "sm7967154",
+    "title": "【ボーカロイド】 日立の樹(まとめ) 【カバー】",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/8/23"
+  },
+  {
+    "id": "nm8007489",
+    "title": "【メグッポイド】 Endless Summer （オリジナル曲） - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/8/23"
+  },
+  {
+    "id": "sm7955551",
+    "title": "【メグッポイド】てらてらぼうず【オリジナル曲】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/8/23"
+  },
+  {
+    "id": "sm7960191",
+    "title": "【Gumi】死ぬなんてイヤ【めぐっぽいどオリジナル曲】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/8/23"
+  },
+  {
+    "id": "sm8010161",
+    "title": "【メグッポイド･初音ミク】 渚の『 ･････ 』 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/8/23"
+  },
+  {
+    "id": "sm8003440",
+    "title": "【メグッポイド・初音ミク】妄想ろけっと【オリジナル曲】",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/8/23"
+  },
+  {
+    "id": "nm8002828",
+    "title": "【メグッポイド】オリジナル　「通学列車」【鏡音リン】",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/8/23"
+  },
+  {
+    "id": "sm7959785",
+    "title": "Nicolog fetch failed",
+    "availability": "Unavailable",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/8/23"
+  },
+  {
+    "id": "sm8013567",
+    "title": "【トークロイド】ボーカロイドたちの日常14『緑は誰のもの？』 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/8/23"
+  },
+  {
+    "id": "sm7903873",
+    "title": "Nicolog fetch failed",
+    "availability": "Unavailable",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/8/23"
+  },
+  {
+    "id": "nm7974073",
+    "title": "【MEIKO・GUMI】 Summer Vacation 【オリジナル】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/8/23"
+  },
+  {
+    "id": "sm8008085",
+    "title": "Nicolog fetch failed",
+    "availability": "Unavailable",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/8/23"
+  },
+  {
+    "id": "sm7964622",
+    "title": "Nicolog fetch failed",
+    "availability": "Unavailable",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/8/23"
+  },
+  {
+    "id": "sm7952408",
+    "title": "【第3回MMD杯本選】残酷な天使のテーゼ【メグッポイド】",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/8/23"
+  },
+  {
+    "id": "sm7966666",
+    "title": "【MEGPOID】ハッブル【オリジナル】",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/8/23"
+  },
+  {
+    "id": "sm7967300",
+    "title": "暫定版 GUMI新曲ランキング ～2009/8/16",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/8/23"
+  },
+  {
+    "id": "sm8101678",
+    "title": "暫定版 GUMI新曲ランキング ～2009/8/30",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/8/23"
+  },
+  {
+    "id": "Video ID",
+    "title": "Title",
+    "availability": "Availability",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/8/23"
+  },
+  {
+    "id": "sm8101678",
+    "title": "暫定版 GUMI新曲ランキング ～2009/8/30",
+    "availability": "Main Video",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/8/30"
+  },
+  {
+    "id": "nm8082070",
+    "title": "【ボーマス9】もうひとつのAdventure【GUMI曲デモ版】",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/8/30"
+  },
+  {
+    "id": "sm7961083",
+    "title": "Nicolog fetch failed",
+    "availability": "Unavailable",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/8/30"
+  },
+  {
+    "id": "nm8079002",
+    "title": "メグッポイド、KAITOに冬が来る前にを歌ってもらった",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/8/30"
+  },
+  {
+    "id": "sm8022730",
+    "title": "【ボーマス9】「Prismatic Colors」クロスフェードデモ【Vocaloid CD】",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/8/30"
+  },
+  {
+    "id": "sm8047538",
+    "title": "Nicolog fetch failed",
+    "availability": "Unavailable",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/8/30"
+  },
+  {
+    "id": "sm8020704",
+    "title": "【ボーマス９】クロスフェードデモ「籠の中の雛龍」",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/8/30"
+  },
+  {
+    "id": "sm8024219",
+    "title": "Nicolog fetch failed",
+    "availability": "Unavailable",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/8/30"
+  },
+  {
+    "id": "sm8082563",
+    "title": "【メグッポイド】 偽りの世界 【GUMIオリジナル】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/8/30"
+  },
+  {
+    "id": "sm8030616",
+    "title": "【ボーマス９】アルバム「Traveler」クロスフェードデモ【つるつるP】",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/8/30"
+  },
+  {
+    "id": "nm8072166",
+    "title": "【メグッポイド】endless　旅立ちー【オリジナル】",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/8/30"
+  },
+  {
+    "id": "sm8059043",
+    "title": "Nicolog fetch failed",
+    "availability": "Unavailable",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/8/30"
+  },
+  {
+    "id": "sm8075036",
+    "title": "Nicolog fetch failed",
+    "availability": "Unavailable",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/8/30"
+  },
+  {
+    "id": "nm8078880",
+    "title": "Nicolog fetch failed",
+    "availability": "Unavailable",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/8/30"
+  },
+  {
+    "id": "sm8045590",
+    "title": "【GUMI】 D.P.C.W 【オリジナル！】",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/8/30"
+  },
+  {
+    "id": "sm8056228",
+    "title": "GUMIシングル曲「COSMiCA」from ゆうきまさみ×kz『Crosslight』",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/8/30"
+  },
+  {
+    "id": "sm8024805",
+    "title": "【メグッポイド】 Wanderland 【オリジナル】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/8/30"
+  },
+  {
+    "id": "sm8034349",
+    "title": "暫定版 GUMI新曲ランキング ～2009/8/23 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/8/30"
+  },
+  {
+    "id": "sm8165835",
+    "title": "暫定版 GUMI新曲ランキング ～2009/9/6 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/8/30"
+  },
+  {
+    "id": "Video ID",
+    "title": "Title",
+    "availability": "Availability",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/8/30"
+  },
+  {
+    "id": "sm8165835",
+    "title": "暫定版 GUMI新曲ランキング ～2009/9/6",
+    "availability": "Main Video",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/9/6"
+  },
+  {
+    "id": "sm8154740",
+    "title": "Nicolog fetch failed",
+    "availability": "Unavailable",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/9/6"
+  },
+  {
+    "id": "nm8100489",
+    "title": "【GUMI】 19 GROWING UP 【カバー】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/9/6"
+  },
+  {
+    "id": "sm8123622",
+    "title": "【GUMI】オリジナル曲「夢-Mu-」",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/9/6"
+  },
+  {
+    "id": "nm8137313",
+    "title": "【GUMI】 明日は明日の風が吹く 【カバー】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/9/6"
+  },
+  {
+    "id": "nm8082070",
+    "title": "【ボーマス9】もうひとつのAdventure【GUMI曲デモ版】",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/9/6"
+  },
+  {
+    "id": "sm8082169",
+    "title": "【メグッポイド】 雨のてん・てん　【みんなのうた／河合奈保子】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/9/6"
+  },
+  {
+    "id": "sm8104404",
+    "title": "【ミク・リン･レン・ルカ・メグッポイド】あんなに一緒だったのに",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/9/6"
+  },
+  {
+    "id": "sm8103586",
+    "title": "【メグッポイド】Just Be Friends【VOCALOIDカバー曲】",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/9/6"
+  },
+  {
+    "id": "sm8131356",
+    "title": "【ＧＵＭＩ】扇風ノ想い華-ｾﾝﾌｳﾉｵﾓｲﾊﾅ-【オリジナル】改訂版",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/9/6"
+  },
+  {
+    "id": "sm8030538",
+    "title": "【GUMI】レベッカ／フレンズ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/9/6"
+  },
+  {
+    "id": "sm8070500",
+    "title": "【メグッポイド＆がくっぽいど】ささの葉さらら【カバー】",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/9/6"
+  },
+  {
+    "id": "sm8131970",
+    "title": "Nicolog fetch failed",
+    "availability": "Unavailable",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/9/6"
+  },
+  {
+    "id": "nm8115674",
+    "title": "【メグッポイド】I still...【オリジナル曲】",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/9/6"
+  },
+  {
+    "id": "sm8148734",
+    "title": "【メグッポイド】 カラス (オリジナル) 【GUMI】",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/9/6"
+  },
+  {
+    "id": "sm8093113",
+    "title": "【めぐっぽいど/Vocaloidカバー】Destiny -太陽の花-【島谷ひとみ】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/9/6"
+  },
+  {
+    "id": "sm8154363",
+    "title": "【めぐぽ・巡音ルカ】最後の鍵 ショートVer.【オリジナル・キオ式3DPV付】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/9/6"
+  },
+  {
+    "id": "sm8149531",
+    "title": "Nicolog fetch failed",
+    "availability": "Unavailable",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/9/6"
+  },
+  {
+    "id": "sm8138464",
+    "title": "【ＧＵＭＩ】　Wishin'in the snow　【オリジナル】",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/9/6"
+  },
+  {
+    "id": "sm8143933",
+    "title": "【鏡音レン】 恋は戦争 【Remix】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/9/6"
+  },
+  {
+    "id": "sm8108216",
+    "title": "【メグッポイド(GUMI)】　black out　【オリジナル】",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/9/6"
+  },
+  {
+    "id": "sm8120014",
+    "title": "【めぐっぽいど】U☆ZA☆I【オリジナル】",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/9/6"
+  },
+  {
+    "id": "sm8119965",
+    "title": "Nicolog fetch failed",
+    "availability": "Unavailable",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/9/6"
+  },
+  {
+    "id": "sm8136180",
+    "title": "【GUMI】「きゃべつ」【オリジナル曲】",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/9/6"
+  },
+  {
+    "id": "sm8135530",
+    "title": "【メグッポイド】ドロリッチなう【オリジナル】",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/9/6"
+  },
+  {
+    "id": "sm8116286",
+    "title": "【GUMI】野性のNUDE【オリジナル曲】",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/9/6"
+  },
+  {
+    "id": "sm8131628",
+    "title": "【GUMI】空を見上げて【超時空Cheerful-Remix】",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/9/6"
+  },
+  {
+    "id": "sm8101839",
+    "title": "【ミク＆GUMI】に「夏祭り」を歌ってもらった - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/9/6"
+  },
+  {
+    "id": "sm8091446",
+    "title": "【GUMI】心エクスチェンジ【オリジナル曲PV付】",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/9/6"
+  },
+  {
+    "id": "sm8087947",
+    "title": "【メグッポイド】自爆【オリジナル曲】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/9/6"
+  },
+  {
+    "id": "nm8093304",
+    "title": "【初音ミク】サンキュッ☆バースデイ【オリジナル曲】",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/9/6"
+  },
+  {
+    "id": "sm8155022",
+    "title": "ミク・リン・グミで フタリの記憶 【アイマスカバー】",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/9/6"
+  },
+  {
+    "id": "nm8136435",
+    "title": "【GUMI】 COSMO NOVA 【コスモノヴァ】【オリジナル】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/9/6"
+  },
+  {
+    "id": "sm8133348",
+    "title": "【GUMI×SONIKA】グリーングリーン～ミドリムシ～【オリジナル曲やで】",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/9/6"
+  },
+  {
+    "id": "sm8133902",
+    "title": "メグッポイドでオリジナル　「Goodnight Sweetheart」",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/9/6"
+  },
+  {
+    "id": "sm8101678",
+    "title": "暫定版 GUMI新曲ランキング ～2009/8/30",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/9/6"
+  },
+  {
+    "id": "sm8232775",
+    "title": "暫定版 GUMI新曲ランキング ～2009/9/13 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/9/6"
+  },
+  {
+    "id": "Video ID",
+    "title": "Title",
+    "availability": "Availability",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/9/6"
+  },
+  {
+    "id": "sm8232775",
+    "title": "暫定版 GUMI新曲ランキング ～2009/9/13",
+    "availability": "Main Video",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/9/13"
+  },
+  {
+    "id": "sm8212299",
+    "title": "【GUMI】ｆｌｏｒａ【詩先コラボ】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/9/13"
+  },
+  {
+    "id": "sm8211087",
+    "title": "【ミク・リン・レン】 翼をください（カバー） 【がくぽ・GUMI】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/9/13"
+  },
+  {
+    "id": "sm8151775",
+    "title": "Nicolog fetch failed",
+    "availability": "Unavailable",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/9/13"
+  },
+  {
+    "id": "sm8198640",
+    "title": "Nicolog fetch failed",
+    "availability": "Unavailable",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/9/13"
+  },
+  {
+    "id": "sm8198689",
+    "title": "【メグッポイド】 火を灯せ (オリジナル) 【GUMI】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/9/13"
+  },
+  {
+    "id": "sm8167196",
+    "title": "メグッポイド他「愛の若草物語 OP/ED ４曲」",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/9/13"
+  },
+  {
+    "id": "sm8160512",
+    "title": "Nicolog fetch failed",
+    "availability": "Unavailable",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/9/13"
+  },
+  {
+    "id": "sm8156166",
+    "title": "【メグッポイド】どぶ川生まれどぶ川育ち【オリジナル曲】",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/9/13"
+  },
+  {
+    "id": "sm8161726",
+    "title": "旧版【Megpoid】SWEET PAIN【オリジナル】残念",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/9/13"
+  },
+  {
+    "id": "sm8202502",
+    "title": "Nicolog fetch failed",
+    "availability": "Unavailable",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/9/13"
+  },
+  {
+    "id": "sm8161038",
+    "title": "【トークロイド】ボーカロイドたちの日常15『おばあちゃんの声』",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/9/13"
+  },
+  {
+    "id": "sm8198357",
+    "title": "メグッポイドでオリジナル　「Traveler」 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/9/13"
+  },
+  {
+    "id": "sm8177003",
+    "title": "【メグッポイド】私のUMA様【GUMIオリジナル曲】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/9/13"
+  },
+  {
+    "id": "sm8165835",
+    "title": "暫定版 GUMI新曲ランキング ～2009/9/6 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/9/13"
+  },
+  {
+    "id": "sm8295624",
+    "title": "暫定版 GUMI新曲ランキング ～2009/9/20",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/9/13"
+  },
+  {
+    "id": "Video ID",
+    "title": "Title",
+    "availability": "Availability",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/9/13"
+  },
+  {
+    "id": "sm8295624",
+    "title": "暫定版 GUMI新曲ランキング ～2009/9/20",
+    "availability": "Main Video",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/9/20"
+  },
+  {
+    "id": "nm8267509",
+    "title": "【chibi39】blue bird【ＧＵＭＩ】　 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/9/20"
+  },
+  {
+    "id": "sm8211248",
+    "title": "Nicolog fetch failed",
+    "availability": "Unavailable",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/9/20"
+  },
+  {
+    "id": "sm8212299",
+    "title": "【GUMI】ｆｌｏｒａ【詩先コラボ】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/9/20"
+  },
+  {
+    "id": "sm8280522",
+    "title": "Nicolog fetch failed",
+    "availability": "Unavailable",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/9/20"
+  },
+  {
+    "id": "sm8256054",
+    "title": "【VOCALOID】 思い出がいっぱい / ＣｏＣｏ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/9/20"
+  },
+  {
+    "id": "sm8211485",
+    "title": "Nicolog fetch failed",
+    "availability": "Unavailable",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/9/20"
+  },
+  {
+    "id": "sm8257904",
+    "title": "【ＧＵＭＩ】残り灯～のこりび～【オリジナル】",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/9/20"
+  },
+  {
+    "id": "sm8285201",
+    "title": "Nicolog fetch failed",
+    "availability": "Unavailable",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/9/20"
+  },
+  {
+    "id": "sm8238102",
+    "title": "めぐっぽいど【オリジナル曲】Ｓｃｒｅａｍ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/9/20"
+  },
+  {
+    "id": "sm8239568",
+    "title": "[メグッポイドオリジナル]　笑って",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/9/20"
+  },
+  {
+    "id": "sm8272355",
+    "title": "【ＫＡＩＴＯ・ＧＵＭＩ】オリジナル曲「少年はひとり」 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/9/20"
+  },
+  {
+    "id": "sm8252430",
+    "title": "【ＧＵＭＩ】扇風ノ想い華-秋バージョン-【リメイク】",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/9/20"
+  },
+  {
+    "id": "sm8263104",
+    "title": "めぐっぽいど【オリジナル曲】絶対爽快天然娘",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/9/20"
+  },
+  {
+    "id": "nm8226082",
+    "title": "Nicolog fetch failed",
+    "availability": "Unavailable",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/9/20"
+  },
+  {
+    "id": "sm8210672",
+    "title": "【メグッポイド】Last night good night",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/9/20"
+  },
+  {
+    "id": "sm8284570",
+    "title": "ちょいロリのリンとレンとルカとグミが「きしめん」歌うよ！！",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/9/20"
+  },
+  {
+    "id": "sm8273457",
+    "title": "【Megpoid】STARGAZER【オリジナル】feat.GUMI - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/9/20"
+  },
+  {
+    "id": "sm8249120",
+    "title": "【GUMI】Believe Again【beatmaniaカバー】",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/9/20"
+  },
+  {
+    "id": "sm8257874",
+    "title": "【DxM】 Ｉ ｗａｎｔ ｙｏｕ 【初音ミク・メグッポイドオリジナル曲】",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/9/20"
+  },
+  {
+    "id": "sm8205693",
+    "title": "Nicolog fetch failed",
+    "availability": "Unavailable",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/9/20"
+  },
+  {
+    "id": "sm8232775",
+    "title": "暫定版 GUMI新曲ランキング ～2009/9/13 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/9/20"
+  },
+  {
+    "id": "sm8370272",
+    "title": "暫定版 GUMI新曲ランキング ～2009/9/27",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/9/20"
+  },
+  {
+    "id": "Video ID",
+    "title": "Title",
+    "availability": "Availability",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/9/20"
+  },
+  {
+    "id": "sm8370272",
+    "title": "暫定版 GUMI新曲ランキング ～2009/9/27",
+    "availability": "Main Video",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/9/27"
+  },
+  {
+    "id": "nm8355294",
+    "title": "メグッポイドに浪花節だよ人生はを歌ってもらった",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/9/27"
+  },
+  {
+    "id": "nm8241755",
+    "title": "【GUMI】 BUSY NOW 【カバー】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/9/27"
+  },
+  {
+    "id": "sm8245265",
+    "title": "めぐっぽいど【オリジナル曲】Love is Lovely - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/9/27"
+  },
+  {
+    "id": "nm8316438",
+    "title": "【GUMI】Sugar free【カバー】",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/9/27"
+  },
+  {
+    "id": "sm8352053",
+    "title": "Nicolog fetch failed",
+    "availability": "Unavailable",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/9/27"
+  },
+  {
+    "id": "sm8351497",
+    "title": "Nicolog fetch failed",
+    "availability": "Unavailable",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/9/27"
+  },
+  {
+    "id": "sm8249961",
+    "title": "【リンレンKAITOミク】ちびっこ達の日常【喋り】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/9/27"
+  },
+  {
+    "id": "sm8257537",
+    "title": "「LITTLE WING」feat.メグッポイド (カバー曲) - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/9/27"
+  },
+  {
+    "id": "sm8316628",
+    "title": "【GUMI】君のいちばんに/リンドバーグ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/9/27"
+  },
+  {
+    "id": "sm8327545",
+    "title": "【ボーカロイド４コマ劇場】ボカロマンガに声をあててみた【決意篇１】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/9/27"
+  },
+  {
+    "id": "nm8342686",
+    "title": "【VOCALOID】 ＧＡＭＢＡらなくちゃね 【カバー】",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/9/27"
+  },
+  {
+    "id": "nm8267509",
+    "title": "【chibi39】blue bird【ＧＵＭＩ】　 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/9/27"
+  },
+  {
+    "id": "sm8294267",
+    "title": "【メグッポイド】 ファミマエレジー (オリジナル) 【GUMI】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/9/27"
+  },
+  {
+    "id": "sm8308417",
+    "title": "しあわせ×のんたんのばやい（いっしょにころんたver.） - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/9/27"
+  },
+  {
+    "id": "nm8302125",
+    "title": "【NOVVHERE】くむいうた HOUSE REMIX【WEB-MIX】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/9/27"
+  },
+  {
+    "id": "sm8294088",
+    "title": "【がくぽ・めぐぽ/Vocaloidカバー】渋谷で５時【鈴木雅之＆菊池桃子】",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/9/27"
+  },
+  {
+    "id": "nm8357176",
+    "title": "【メグッポイド（ＧＵＭＩ）】-消失-【オリジナル曲】",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/9/27"
+  },
+  {
+    "id": "sm8295107",
+    "title": "【MEIKO・メグッポイド】 一緒に暮らそう 【オリジナル】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/9/27"
+  },
+  {
+    "id": "sm8312243",
+    "title": "【メグッポイド】アイモ～鳥の人 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/9/27"
+  },
+  {
+    "id": "nm8338697",
+    "title": "【メグッポイド】Going My ･･･【オリジナル】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/9/27"
+  },
+  {
+    "id": "nm8350846",
+    "title": "【メグッポイド】抱きしめてあげるから。【オリジナル曲】",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/9/27"
+  },
+  {
+    "id": "sm8290462",
+    "title": "【MMD】メグッポイドぽいの作ってみた(完)",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/9/27"
+  },
+  {
+    "id": "sm8293716",
+    "title": "【トークロイド】ボーカロイドたちの日常16『サイコロの番組』",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/9/27"
+  },
+  {
+    "id": "sm8282256",
+    "title": "【鏡音リン】こまけぇこたいいんだよ【オリジナル曲】",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/9/27"
+  },
+  {
+    "id": "sm8326391",
+    "title": "【GUMI】 月の羅針盤 【オリジナル！】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/9/27"
+  },
+  {
+    "id": "sm8333344",
+    "title": "【メグッポイド】　陽炎　【GUMIオリジナル曲＆PV】",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/9/27"
+  },
+  {
+    "id": "sm8289945",
+    "title": "【GUMI】アオハススメ【オリジナル曲】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/9/27"
+  },
+  {
+    "id": "sm8303193",
+    "title": "Nicolog fetch failed",
+    "availability": "Unavailable",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/9/27"
+  },
+  {
+    "id": "sm8295624",
+    "title": "暫定版 GUMI新曲ランキング ～2009/9/20",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/9/27"
+  },
+  {
+    "id": "sm8433635",
+    "title": "暫定版 GUMI新曲ランキング ～2009/10/4 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/9/27"
+  },
+  {
+    "id": "sm8418089",
+    "title": "【GUMI】megpoidランキング ～09年09月【単発】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/9/27"
+  },
+  {
+    "id": "Video ID",
+    "title": "Title",
+    "availability": "Availability",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/9/27"
+  },
+  {
+    "id": "sm8433635",
+    "title": "暫定版 GUMI新曲ランキング ～2009/10/4",
+    "availability": "Main Video",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/10/4"
+  },
+  {
+    "id": "nm8355294",
+    "title": "メグッポイドに浪花節だよ人生はを歌ってもらった",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/10/4"
+  },
+  {
+    "id": "sm8351039",
+    "title": "【メグッポイド】超時空飯店　娘々CM【レフトライト】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/10/4"
+  },
+  {
+    "id": "nm8359652",
+    "title": "Nicolog fetch failed",
+    "availability": "Unavailable",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/10/4"
+  },
+  {
+    "id": "nm8414026",
+    "title": "【VOCALOID】 BELIEVE IN LOVE 【カバー】",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/10/4"
+  },
+  {
+    "id": "sm8343799",
+    "title": "Gumiオリジナル曲 『ラストスマイル』 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/10/4"
+  },
+  {
+    "id": "sm8378054",
+    "title": "Nicolog fetch failed",
+    "availability": "Unavailable",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/10/4"
+  },
+  {
+    "id": "sm8377231",
+    "title": "Nicolog fetch failed",
+    "availability": "Unavailable",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/10/4"
+  },
+  {
+    "id": "sm8381931",
+    "title": "めぐっぽいど【オリジナル曲】天使と悪魔 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/10/4"
+  },
+  {
+    "id": "sm8308581",
+    "title": "Nicolog fetch failed",
+    "availability": "Unavailable",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/10/4"
+  },
+  {
+    "id": "sm8359568",
+    "title": "めぐっぽいど【オリジナル曲】Broken Mind",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/10/4"
+  },
+  {
+    "id": "nm8369303",
+    "title": "【めぐっぽいど】　なんかいいね　【ＧＵＭＩおりじなる曲】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/10/4"
+  },
+  {
+    "id": "nm8370662",
+    "title": "【GUMI】 Green eyed Monster 【カバー】",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/10/4"
+  },
+  {
+    "id": "sm8379731",
+    "title": "【シェリル・ノーム】「ダイアモンド クレバス」【starring \"GUMI\"】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/10/4"
+  },
+  {
+    "id": "sm8419700",
+    "title": "初音ミクが歌う「アヴェ・マリア」 13.ブルックナー v1.0",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/10/4"
+  },
+  {
+    "id": "sm8355255",
+    "title": "【メグッポイド(GUMI)】　Asian butterfly　【オリジナル】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/10/4"
+  },
+  {
+    "id": "sm8409993",
+    "title": "もどかしい君 （GUMI オリジナル曲） - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/10/4"
+  },
+  {
+    "id": "sm8338641",
+    "title": "【ミク・リン・GUMI】 永遠ダイアリー（ラブプラス） 【カバー】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/10/4"
+  },
+  {
+    "id": "sm8405557",
+    "title": "【メグッポイド】素直に言えない【GUMIオリジナル】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/10/4"
+  },
+  {
+    "id": "sm8358368",
+    "title": "【初音ミク,巡音ルカ,GUMI】百鬼夜行【オリジナル妖怪ソング】",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/10/4"
+  },
+  {
+    "id": "sm8417488",
+    "title": "【メグッポイド】 GUMIで 「君の知らない物語」 【カバー】",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/10/4"
+  },
+  {
+    "id": "nm8363469",
+    "title": "【初音ミク、巡音ルカ、メグッポイド】Next City【オリジナル】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/10/4"
+  },
+  {
+    "id": "sm8401084",
+    "title": "【がくっぽいど】【ちょっとだけＧＵＭＩ】No idea, No format【オリジナル】",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/10/4"
+  },
+  {
+    "id": "sm8363694",
+    "title": "【GUMI】アンドロメダ☆クルージング【オリジナル曲】",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/10/4"
+  },
+  {
+    "id": "nm8367616",
+    "title": "それだけじゃだめだよ / GUMI with バナナイス",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/10/4"
+  },
+  {
+    "id": "sm8370272",
+    "title": "暫定版 GUMI新曲ランキング ～2009/9/27",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/10/4"
+  },
+  {
+    "id": "sm8494034",
+    "title": "暫定版 GUMI新曲ランキング ～2009/10/11",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/10/4"
+  },
+  {
+    "id": "sm8418089",
+    "title": "【GUMI】megpoidランキング ～09年09月【単発】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/10/4"
+  },
+  {
+    "id": "Video ID",
+    "title": "Title",
+    "availability": "Availability",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/10/4"
+  },
+  {
+    "id": "sm8494034",
+    "title": "暫定版 GUMI新曲ランキング ～2009/10/11",
+    "availability": "Main Video",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/10/11"
+  },
+  {
+    "id": "sm8485336",
+    "title": "Nicolog fetch failed",
+    "availability": "Unavailable",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/10/11"
+  },
+  {
+    "id": "nm8465675",
+    "title": "Nicolog fetch failed",
+    "availability": "Unavailable",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/10/11"
+  },
+  {
+    "id": "nm8486777",
+    "title": "ＧＵＭＩが「ワールドイズマイン」を歌ってみました - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/10/11"
+  },
+  {
+    "id": "sm8436451",
+    "title": "めぐっぽいど【オリジナル曲】未来への扉 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/10/11"
+  },
+  {
+    "id": "sm8441486",
+    "title": "【メグッポイド】わからないのさ（G）【オリジナル曲】",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/10/11"
+  },
+  {
+    "id": "sm8423986",
+    "title": "【メグッポイド】Moon, Planet, and Computer【GUMIオリジナル曲】",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/10/11"
+  },
+  {
+    "id": "nm8467278",
+    "title": "忙しい人のための「きみにごめんね」",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/10/11"
+  },
+  {
+    "id": "sm8432257",
+    "title": "Nicolog fetch failed",
+    "availability": "Unavailable",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/10/11"
+  },
+  {
+    "id": "sm8485015",
+    "title": "【DxM】メイド日記（めぐぽオリジナル曲） - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/10/11"
+  },
+  {
+    "id": "sm8468759",
+    "title": "【メグッポイド】CARNIVAL【オリジナル】feat. GUMI - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/10/11"
+  },
+  {
+    "id": "sm8452546",
+    "title": "【初音ミク】オリジナル　大空",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/10/11"
+  },
+  {
+    "id": "sm8469229",
+    "title": "初音ミクが歌う「アヴェ・マリア」 14.グレゴリオ聖歌 v1.0 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/10/11"
+  },
+  {
+    "id": "nm8466899",
+    "title": "Nicolog fetch failed",
+    "availability": "Unavailable",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/10/11"
+  },
+  {
+    "id": "sm8431746",
+    "title": "【ボーカロイド４コマ劇場】ボカロマンガに声をあててみた【決意篇２】",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/10/11"
+  },
+  {
+    "id": "sm8460329",
+    "title": "【初音ミク】　緑のツインテール　【メグッポイド】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/10/11"
+  },
+  {
+    "id": "sm8433635",
+    "title": "暫定版 GUMI新曲ランキング ～2009/10/4 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/10/11"
+  },
+  {
+    "id": "sm8563638",
+    "title": "暫定版 GUMI新曲ランキング ～2009/10/18",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/10/11"
+  },
+  {
+    "id": "Video ID",
+    "title": "Title",
+    "availability": "Availability",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/10/11"
+  },
+  {
+    "id": "sm8563638",
+    "title": "暫定版 GUMI新曲ランキング ～2009/10/18",
+    "availability": "Main Video",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/10/18"
+  },
+  {
+    "id": "sm8542746",
+    "title": "Nicolog fetch failed",
+    "availability": "Unavailable",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/10/18"
+  },
+  {
+    "id": "sm8534971",
+    "title": "Nicolog fetch failed",
+    "availability": "Unavailable",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/10/18"
+  },
+  {
+    "id": "sm8529620",
+    "title": "Nicolog fetch failed",
+    "availability": "Unavailable",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/10/18"
+  },
+  {
+    "id": "sm8540498",
+    "title": "【メグッポイド】マクロスプラス　VOICES",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/10/18"
+  },
+  {
+    "id": "sm8506648",
+    "title": "Nicolog fetch failed",
+    "availability": "Unavailable",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/10/18"
+  },
+  {
+    "id": "sm8470217",
+    "title": "【GUMI】God knows...『涼宮ハルヒの憂鬱より』【メグッポイド】",
+    "availability": "Unavailable",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/10/18"
+  },
+  {
+    "id": "sm8512005",
+    "title": "めぐっぽいど＆がくっぽいど【オリジナル曲】LoversHeart - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/10/18"
+  },
+  {
+    "id": "sm8532573",
+    "title": "【メグッポイド】 artificial sky 【GUMIオリジナル曲】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/10/18"
+  },
+  {
+    "id": "sm8552635",
+    "title": "【GUMIオリジナル曲】しみだすとれいん【うらぱん！キャラソン】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/10/18"
+  },
+  {
+    "id": "sm8551964",
+    "title": "【鏡音リン・メグッポイド】  ワガママ 【オリジナル】",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/10/18"
+  },
+  {
+    "id": "sm8485336",
+    "title": "Nicolog fetch failed",
+    "availability": "Unavailable",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/10/18"
+  },
+  {
+    "id": "sm8499093",
+    "title": "【メグッポイド】　ハーフムーン・セレナーデ　【河合奈保子】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/10/18"
+  },
+  {
+    "id": "sm8534979",
+    "title": "【GUMI】好きになって、よかった【加藤いづみ】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/10/18"
+  },
+  {
+    "id": "sm8538220",
+    "title": "【メグッポイド】Sweet Pain（改訂版）【オリジナル】feat. GUMI",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/10/18"
+  },
+  {
+    "id": "sm8550986",
+    "title": "GUMIオリジナル曲 『LUNARIA』",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/10/18"
+  },
+  {
+    "id": "sm8519302",
+    "title": "【お待たせ】メグポで「君の知らない物語」【フル再調整版】",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/10/18"
+  },
+  {
+    "id": "sm8551280",
+    "title": "GUMIオリジナル曲 『EMIRIA』",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/10/18"
+  },
+  {
+    "id": "sm8522380",
+    "title": "【カバー】10月の雨【日本語女性ボカロ】",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/10/18"
+  },
+  {
+    "id": "sm8499648",
+    "title": "【トークロイド】ボーカロイドたちの日常17『お菓子なキューピッド』",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/10/18"
+  },
+  {
+    "id": "sm8494849",
+    "title": "【メグッポイド】明日からの僕【オリジナル曲】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/10/18"
+  },
+  {
+    "id": "sm8489626",
+    "title": "【第２回MMD体育祭】プロジェクトＸ【ＭＭＤドラマ】",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/10/18"
+  },
+  {
+    "id": "sm8494034",
+    "title": "暫定版 GUMI新曲ランキング ～2009/10/11",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/10/18"
+  },
+  {
+    "id": "sm8628740",
+    "title": "暫定版 GUMI新曲ランキング ～2009/10/25",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/10/18"
+  },
+  {
+    "id": "Video ID",
+    "title": "Title",
+    "availability": "Availability",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/10/18"
+  },
+  {
+    "id": "sm8628740",
+    "title": "暫定版 GUMI新曲ランキング ～2009/10/25",
+    "availability": "Main Video",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/10/25"
+  },
+  {
+    "id": "sm8613815",
+    "title": "【めぐぽも】「E.F.B～恒久の氷結～」【歌ってみた】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/10/25"
+  },
+  {
+    "id": "sm8587292",
+    "title": "「羽」baker feat.GUMI",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/10/25"
+  },
+  {
+    "id": "sm8568000",
+    "title": "【カバー】GUMIで「星間飛行」【ランカ・リー＝中島愛】",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/10/25"
+  },
+  {
+    "id": "nm8560907",
+    "title": "【メグッポイド】Sappa【オリジナル】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/10/25"
+  },
+  {
+    "id": "sm8565722",
+    "title": "【メグッポイド】ボクハユウシャ【オリジナル】",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/10/25"
+  },
+  {
+    "id": "nm8601360",
+    "title": "【メグッポイド】 おひとりデイズ （オリジナル曲）",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/10/25"
+  },
+  {
+    "id": "sm8577985",
+    "title": "【GUMI】メグッポイドがうたうポケモンはらはらリレー【カバー】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/10/25"
+  },
+  {
+    "id": "sm8586941",
+    "title": "【メグッポイド】シャイ【オリジナル】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/10/25"
+  },
+  {
+    "id": "nm8609460",
+    "title": "LOVE COLOR　メグッポイド　オリジナル曲",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/10/25"
+  },
+  {
+    "id": "sm8569896",
+    "title": "（GUMI）『妄想LOVEジェネレイター』（初投稿）",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/10/25"
+  },
+  {
+    "id": "nm8611391",
+    "title": "【GUMI巡音ルカがくぽ初音ミク】PLANET DANCE試聴デモ【ボーマス10】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/10/25"
+  },
+  {
+    "id": "sm8572332",
+    "title": "Nicolog fetch failed",
+    "availability": "Unavailable",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/10/25"
+  },
+  {
+    "id": "sm8552714",
+    "title": "【メグッポイド(GUMI)】　long distance　【オリジナル】",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/10/25"
+  },
+  {
+    "id": "nm8555380",
+    "title": "Nicolog fetch failed",
+    "availability": "Unavailable",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/10/25"
+  },
+  {
+    "id": "nm8612557",
+    "title": "【メグッポイド】　　落葉　－ＲＡＫＵＹＯＵ－　　【オリジナル曲】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/10/25"
+  },
+  {
+    "id": "sm8555210",
+    "title": "アナタノオト (VOCALOID2 めぐっぽいど ver.)",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/10/25"
+  },
+  {
+    "id": "sm8560256",
+    "title": "【メグッポイド】あなたのことなんかどーでもよくなっちゃったけど",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/10/25"
+  },
+  {
+    "id": "sm8573153",
+    "title": "【ボーカロイド４コマ劇場】ボカロマンガに声をあててみた【決意篇３】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/10/25"
+  },
+  {
+    "id": "sm8609064",
+    "title": "【鏡音リン＆GUMI】「BUTTERFLY（SMiLE.dk）」【DDR】",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/10/25"
+  },
+  {
+    "id": "nm8561641",
+    "title": "【メグッポイド】 エンドレス 【キャプミラＰのリミックス】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/10/25"
+  },
+  {
+    "id": "sm8605569",
+    "title": "「違う空」baker feat.GUMI - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/10/25"
+  },
+  {
+    "id": "sm8563638",
+    "title": "暫定版 GUMI新曲ランキング ～2009/10/18",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/10/25"
+  },
+  {
+    "id": "sm8697039",
+    "title": "暫定版 GUMI新曲ランキング ～2009/11/1 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/10/25"
+  },
+  {
+    "id": "Video ID",
+    "title": "Title",
+    "availability": "Availability",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/10/25"
+  },
+  {
+    "id": "sm8697039",
+    "title": "暫定版 GUMI新曲ランキング ～2009/11/1",
+    "availability": "Main Video",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/11/1"
+  },
+  {
+    "id": "nm8621899",
+    "title": "Nicolog fetch failed",
+    "availability": "Unavailable",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/11/1"
+  },
+  {
+    "id": "sm8639738",
+    "title": "【めぐっぽいどオリジナル曲】カムパネルラ【PV】",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/11/1"
+  },
+  {
+    "id": "sm8660250",
+    "title": "【メグッポイド(GUMI)】　breathing time　【オリジナル】",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/11/1"
+  },
+  {
+    "id": "nm8626283",
+    "title": "ボカロ合唱団「夕日が背中を押してくる」 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/11/1"
+  },
+  {
+    "id": "nm8643998",
+    "title": "【メグッポイド】ぼくたちの失敗",
+    "availability": "Unavailable",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/11/1"
+  },
+  {
+    "id": "sm8673532",
+    "title": "【メグッポイド】「木綿のハンカチーフ」暫定版【カバー】",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/11/1"
+  },
+  {
+    "id": "sm8613815",
+    "title": "【めぐぽも】「E.F.B～恒久の氷結～」【歌ってみた】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/11/1"
+  },
+  {
+    "id": "sm8638256",
+    "title": "【メグッポイド】指輪【カバー】",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/11/1"
+  },
+  {
+    "id": "sm8621922",
+    "title": "【初音ミク】　オリジナル曲　In the Air Part1",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/11/1"
+  },
+  {
+    "id": "sm8657418",
+    "title": "メグッポイド【もう泣かないよ】オリジナル曲",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/11/1"
+  },
+  {
+    "id": "sm8666072",
+    "title": "「 Choose the joker  」",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/11/1"
+  },
+  {
+    "id": "sm8666824",
+    "title": "めぐっぽいど【オリジナル曲】逢いたいよ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/11/1"
+  },
+  {
+    "id": "sm8674461",
+    "title": "【巡音ルカ,  メグッポイド】Trick or Treat【終わったハロウィン】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/11/1"
+  },
+  {
+    "id": "sm8658979",
+    "title": "Nicolog fetch failed",
+    "availability": "Unavailable",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/11/1"
+  },
+  {
+    "id": "sm8624918",
+    "title": "めぐっぽいど【オリジナル曲】Crumbles",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/11/1"
+  },
+  {
+    "id": "sm8654700",
+    "title": "【メグッポイド】AFTER THE RAIN【オリジナル】",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/11/1"
+  },
+  {
+    "id": "nm8653406",
+    "title": "Nicolog fetch failed",
+    "availability": "Unavailable",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/11/1"
+  },
+  {
+    "id": "sm8623940",
+    "title": "【メグッポイド】かぼちゃスマイル【GUMIオリジナル曲】",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/11/1"
+  },
+  {
+    "id": "sm8675693",
+    "title": "【GUMIオリジナル】パパパパパラダイス【7平均律】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/11/1"
+  },
+  {
+    "id": "sm8647442",
+    "title": "【トークロイド】ボーカロイドたちの日常18『Trick or Treat』",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/11/1"
+  },
+  {
+    "id": "sm8620827",
+    "title": "【GUMI】ココホレワンワン【オリジナル曲】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/11/1"
+  },
+  {
+    "id": "nm8645476",
+    "title": "Nicolog fetch failed",
+    "availability": "Unavailable",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/11/1"
+  },
+  {
+    "id": "sm8628740",
+    "title": "暫定版 GUMI新曲ランキング ～2009/10/25",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/11/1"
+  },
+  {
+    "id": "sm8764587",
+    "title": "暫定版 GUMI新曲ランキング ～2009/11/8 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/11/1"
+  },
+  {
+    "id": "Video ID",
+    "title": "Title",
+    "availability": "Availability",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/11/1"
+  },
+  {
+    "id": "sm8764587",
+    "title": "暫定版 GUMI新曲ランキング ～2009/11/8",
+    "availability": "Main Video",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/11/8"
+  },
+  {
+    "id": "sm8687817",
+    "title": "Nicolog fetch failed",
+    "availability": "Unavailable",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/11/8"
+  },
+  {
+    "id": "sm8619109",
+    "title": "Nicolog fetch failed",
+    "availability": "Unavailable",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/11/8"
+  },
+  {
+    "id": "nm8621899",
+    "title": "Nicolog fetch failed",
+    "availability": "Unavailable",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/11/8"
+  },
+  {
+    "id": "sm8717811",
+    "title": "マクロスF 挿入歌 星間飛行 メグッポイド - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/11/8"
+  },
+  {
+    "id": "sm8704984",
+    "title": "【メグッポイド】ずっとね【オリジナル曲】",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/11/8"
+  },
+  {
+    "id": "sm8702194",
+    "title": "【ボーマス10】クロスフェードデモ【YamamayaフルアルバムCD】",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/11/8"
+  },
+  {
+    "id": "sm8743506",
+    "title": "【初音ミク・巡音ルカ・GUMI】かへるて 〜楓〜【オリジナル曲】",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/11/8"
+  },
+  {
+    "id": "sm8740138",
+    "title": "【GUMI】Pilot Dream【オリジナル曲】",
+    "availability": "Unavailable",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/11/8"
+  },
+  {
+    "id": "nm8715066",
+    "title": "【巡ッポイド】battlecry　完全版【オリジナル】",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/11/8"
+  },
+  {
+    "id": "nm8706125",
+    "title": "【メグッポイド】Co co Co 【オリジナル曲】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/11/8"
+  },
+  {
+    "id": "sm8731547",
+    "title": "【メグッポイド】Dolore【GUMIオリジナル曲】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/11/8"
+  },
+  {
+    "id": "sm8752941",
+    "title": "【Voc@loidM@ster祭り3】忙しすぎる人のための『まっすぐ』 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/11/8"
+  },
+  {
+    "id": "sm8714841",
+    "title": "Green　Green【日本語ボカロ2全員】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/11/8"
+  },
+  {
+    "id": "sm8706185",
+    "title": "【めぐぽ】なんとなく　空を見上げてみる【オリジナル曲】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/11/8"
+  },
+  {
+    "id": "sm8682391",
+    "title": "（GUMI）『花散ラス雨ノ残響』　（オリジナル） - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/11/8"
+  },
+  {
+    "id": "nm8691804",
+    "title": "Nicolog fetch failed",
+    "availability": "Unavailable",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/11/8"
+  },
+  {
+    "id": "nm8727803",
+    "title": "【GUMI】 bloom dear happiness 【オリジナル】",
+    "availability": "Unavailable",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/11/8"
+  },
+  {
+    "id": "sm8699663",
+    "title": "Nicolog fetch failed",
+    "availability": "Unavailable",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/11/8"
+  },
+  {
+    "id": "nm8714457",
+    "title": "【メグッポイド】 why - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/11/8"
+  },
+  {
+    "id": "sm8743299",
+    "title": "【初音ミク＆GUMI】 ひとりゆらり -acappella edition- - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/11/8"
+  },
+  {
+    "id": "sm8705367",
+    "title": "【ボカロ合唱団】ジプシーはチーズを食べる【コダーイを歌わせてみた】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/11/8"
+  },
+  {
+    "id": "sm8740966",
+    "title": "【メグッポイド＆MMD】 Gungnir（グングニル） 【オリジナル】",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/11/8"
+  },
+  {
+    "id": "sm8728107",
+    "title": "【Voc@loidM@ster祭り3】まっすぐ（Mac音ナナ+桃音モモ+GUMI） - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/11/8"
+  },
+  {
+    "id": "sm8744102",
+    "title": "【GUMI】キミノチカラ-GUMI version-【オリジナル】",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/11/8"
+  },
+  {
+    "id": "sm8703861",
+    "title": "【メグッポイド】永遠ノ想イ -Short ver.-【オリジナル】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/11/8"
+  },
+  {
+    "id": "sm8700898",
+    "title": "【GUMI】A・Re・Re【オリジナル】",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/11/8"
+  },
+  {
+    "id": "sm8697039",
+    "title": "暫定版 GUMI新曲ランキング ～2009/11/1 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/11/8"
+  },
+  {
+    "id": "sm8832621",
+    "title": "暫定版 GUMI新曲ランキング ～2009/11/15 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/11/8"
+  },
+  {
+    "id": "Video ID",
+    "title": "Title",
+    "availability": "Availability",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/11/8"
+  },
+  {
+    "id": "sm8832621",
+    "title": "暫定版 GUMI新曲ランキング ～2009/11/15",
+    "availability": "Main Video",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/11/15"
+  },
+  {
+    "id": "sm8687817",
+    "title": "Nicolog fetch failed",
+    "availability": "Unavailable",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/11/15"
+  },
+  {
+    "id": "sm8796815",
+    "title": "Eraser ft. GUMI - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/11/15"
+  },
+  {
+    "id": "sm8705564",
+    "title": "Nicolog fetch failed",
+    "availability": "Unavailable",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/11/15"
+  },
+  {
+    "id": "sm8782245",
+    "title": "GUMIに「only my railgun」を本人と一緒に練習させてみた - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/11/15"
+  },
+  {
+    "id": "nm8742291",
+    "title": "ボカロ合唱団「パンタロンとコロンビーヌ」(シューマン) - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/11/15"
+  },
+  {
+    "id": "nm8802817",
+    "title": "【ボーパラ2】Dea ex Machina～機械仕掛けの女神～【F12 深影屋】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/11/15"
+  },
+  {
+    "id": "sm8753528",
+    "title": "【メグッポイド】　あの娘　【中島みゆき】",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/11/15"
+  },
+  {
+    "id": "sm8755218",
+    "title": "GUMIと鏡音レンACT.2に「magnet」を歌わせてみた",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/11/15"
+  },
+  {
+    "id": "sm8799873",
+    "title": "切手のないおくりもの【日本語ボカロ２全員】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/11/15"
+  },
+  {
+    "id": "sm8760627",
+    "title": "【巡音ルカ・GUMI】Battle_song【オリジナル】",
+    "availability": "Unavailable",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/11/15"
+  },
+  {
+    "id": "sm8785103",
+    "title": "めぐっぽいど【オリジナル曲】GODDESS BLESS YOU - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/11/15"
+  },
+  {
+    "id": "sm8809575",
+    "title": "【メグッポイド】エンドレス nak-ami DANCE CLUB MIX【キャプミラP】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/11/15"
+  },
+  {
+    "id": "sm8764587",
+    "title": "暫定版 GUMI新曲ランキング ～2009/11/8 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/11/15"
+  },
+  {
+    "id": "sm8896446",
+    "title": "暫定版 GUMI新曲ランキング ～2009/11/22",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/11/15"
+  },
+  {
+    "id": "Video ID",
+    "title": "Title",
+    "availability": "Availability",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/11/15"
+  },
+  {
+    "id": "sm8896446",
+    "title": "暫定版 GUMI新曲ランキング ～2009/11/22",
+    "availability": "Main Video",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/11/22"
+  },
+  {
+    "id": "nm8871715",
+    "title": "【NOVVHERE】スターチェイサー【feat.GUMI】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/11/22"
+  },
+  {
+    "id": "sm8830999",
+    "title": "【GUMI】 AGAINST 【オリジナル！】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/11/22"
+  },
+  {
+    "id": "sm8841091",
+    "title": "【GUMI】Bad Apple!! を歌ってもらった(影絵PVサイズ) - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/11/22"
+  },
+  {
+    "id": "sm8781428",
+    "title": "【Dance×Mixer】で『無法松の一生』",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/11/22"
+  },
+  {
+    "id": "sm8821675",
+    "title": "「明日がくるなら」 GUMI with GAKUPO - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/11/22"
+  },
+  {
+    "id": "sm8862834",
+    "title": "【メグッポイド(GUMI)】　Crazy Night　【オリジナル】",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/11/22"
+  },
+  {
+    "id": "sm8877763",
+    "title": "Nicolog fetch failed",
+    "availability": "Unavailable",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/11/22"
+  },
+  {
+    "id": "sm8789995",
+    "title": "Nicolog fetch failed",
+    "availability": "Unavailable",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/11/22"
+  },
+  {
+    "id": "sm8769076",
+    "title": "Nicolog fetch failed",
+    "availability": "Unavailable",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/11/22"
+  },
+  {
+    "id": "sm8816250",
+    "title": "【メグッポイド】一期一会【オリジナル曲】",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/11/22"
+  },
+  {
+    "id": "sm8827697",
+    "title": "【メグッポイド】 風のそよ吹く丘 (オリジナル) 【GUMI】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/11/22"
+  },
+  {
+    "id": "sm8869952",
+    "title": "【GUMI＆リン】ukigumo【カバー・PV付】",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/11/22"
+  },
+  {
+    "id": "sm8874001",
+    "title": "【メグッポイド】 BREAKER (オリジナル) 【GUMI】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/11/22"
+  },
+  {
+    "id": "sm8836809",
+    "title": "（GUMI）『舞い姫恋歌-マイヒメコイウタ-』 (オリジナル） - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/11/22"
+  },
+  {
+    "id": "sm8830527",
+    "title": "初音ミクが歌う「アヴェ・マリア」 15.パレストリーナ v1.0 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/11/22"
+  },
+  {
+    "id": "sm8820024",
+    "title": "【初音ミクが歌っちゃうオリジナル曲】 天へ還る日々・・・ 【歌葬】",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/11/22"
+  },
+  {
+    "id": "nm8840457",
+    "title": "【GUMI】【初音ミク】　あぷりこっと☆しょこら　【オリジナル】",
+    "availability": "Unavailable",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/11/22"
+  },
+  {
+    "id": "sm8859153",
+    "title": "【修正版】Bad Apple!! めぐぽ×四重奏・改【合わせてみた】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/11/22"
+  },
+  {
+    "id": "sm8865296",
+    "title": "【トークロイド】ボーカロイドたちの日常20『スーツの男』",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/11/22"
+  },
+  {
+    "id": "sm8823118",
+    "title": "【Megpoid】アシタノヒカリ（半音低い方）【オリジナル】",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/11/22"
+  },
+  {
+    "id": "sm8822699",
+    "title": "【ボーカロイド４コマ劇場】ボカロマンガに声をあててみた【執筆篇１】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/11/22"
+  },
+  {
+    "id": "sm8800159",
+    "title": "【トークロイド】ボーカロイドたちの日常19『さよなら絶望がくぽ』 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/11/22"
+  },
+  {
+    "id": "nm8838259",
+    "title": "【GUMI】恋の奴隷【カバー】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/11/22"
+  },
+  {
+    "id": "sm8841321",
+    "title": "初音ミクオリジナル曲　「！？」 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/11/22"
+  },
+  {
+    "id": "sm8829502",
+    "title": "Nicolog fetch failed",
+    "availability": "Unavailable",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/11/22"
+  },
+  {
+    "id": "sm8846675",
+    "title": "3曲先行配信！ボカロでアイマスメドレー！ - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/11/22"
+  },
+  {
+    "id": "sm8865955",
+    "title": "【メグッポイド】1925【カバー】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/11/22"
+  },
+  {
+    "id": "sm8866970",
+    "title": "【弱音ハク、GUMI】ツマンない【ガルナ/オワタP】",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/11/22"
+  },
+  {
+    "id": "sm8840061",
+    "title": "【GUMI】raid of glass【オリジナル】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/11/22"
+  },
+  {
+    "id": "sm8832621",
+    "title": "暫定版 GUMI新曲ランキング ～2009/11/15 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/11/22"
+  },
+  {
+    "id": "sm8968508",
+    "title": "暫定版 GUMI新曲ランキング ～2009/11/29",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/11/22"
+  },
+  {
+    "id": "Video ID",
+    "title": "Title",
+    "availability": "Availability",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/11/22"
+  },
+  {
+    "id": "sm8968508",
+    "title": "暫定版 GUMI新曲ランキング ～2009/11/29",
+    "availability": "Main Video",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/11/29"
+  },
+  {
+    "id": "sm8914154",
+    "title": "Nicolog fetch failed",
+    "availability": "Unavailable",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/11/29"
+  },
+  {
+    "id": "sm8899411",
+    "title": "【カバー】GUMIで「君の知らない物語」【supercell】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/11/29"
+  },
+  {
+    "id": "sm8908059",
+    "title": "たたかえ！リリィ★レンジャー - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/11/29"
+  },
+  {
+    "id": "sm8915668",
+    "title": "【めぐっぽいど･キラッ☆】星間飛行【重音テト･キメラッ☆】",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/11/29"
+  },
+  {
+    "id": "sm8925973",
+    "title": "ＧＵＭＩオリジナル曲「恋は狩り！狩りは恋！」(ガチャフォース生誕祭) - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/11/29"
+  },
+  {
+    "id": "sm8944378",
+    "title": "Nicolog fetch failed",
+    "availability": "Unavailable",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/11/29"
+  },
+  {
+    "id": "sm8950287",
+    "title": "Nicolog fetch failed",
+    "availability": "Unavailable",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/11/29"
+  },
+  {
+    "id": "sm8834233",
+    "title": "水戸黄門 feat.ルカ＆GUMI - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/11/29"
+  },
+  {
+    "id": "sm8881879",
+    "title": "ウィリアム・バード「3声のミサ曲　Kyrie,Gloria」（メグッポイド） - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/11/29"
+  },
+  {
+    "id": "nm8871715",
+    "title": "【NOVVHERE】スターチェイサー【feat.GUMI】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/11/29"
+  },
+  {
+    "id": "sm8896621",
+    "title": "【めぐっぽいど/Vocaloidカバー】一緒に…【MAX】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/11/29"
+  },
+  {
+    "id": "sm8932403",
+    "title": "Nicolog fetch failed",
+    "availability": "Unavailable",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/11/29"
+  },
+  {
+    "id": "sm8895887",
+    "title": "合唱してみた　カムパネルラ - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/11/29"
+  },
+  {
+    "id": "sm8885675",
+    "title": "Nicolog fetch failed",
+    "availability": "Unavailable",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/11/29"
+  },
+  {
+    "id": "sm8947597",
+    "title": "【鏡音レン】 Merry Christmas To You 【オリジナル】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/11/29"
+  },
+  {
+    "id": "nm8891847",
+    "title": "【GUMI】　その当たり前の日々に　僕らはいた　【オリジナル】",
+    "availability": "Unavailable",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/11/29"
+  },
+  {
+    "id": "sm8941725",
+    "title": "【GUMI】駅（竹内まりや）【カヴァー】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/11/29"
+  },
+  {
+    "id": "sm8910209",
+    "title": "【GUMI】「君の知らない物語」を本家と合わせてみた。【ステレオ】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/11/29"
+  },
+  {
+    "id": "sm8871497",
+    "title": "初音ミクが歌う「アヴェ・マリア」 16.ビクトリア(8声) v1.0 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/11/29"
+  },
+  {
+    "id": "sm8891648",
+    "title": "【メグッポイド】エンドレス　-CRP Remix-【キャプミラP】",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/11/29"
+  },
+  {
+    "id": "nm8923378",
+    "title": "【nagi】君の知らない物語を合わせてみた(修正版)【GUMI・ミク】",
+    "availability": "Unavailable",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/11/29"
+  },
+  {
+    "id": "sm8955124",
+    "title": "【日本語ボカロ】わいわいミュージック【全員集合】",
+    "availability": "Unavailable",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/11/29"
+  },
+  {
+    "id": "sm8893788",
+    "title": "Nicolog fetch failed",
+    "availability": "Unavailable",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/11/29"
+  },
+  {
+    "id": "sm8930310",
+    "title": "【メグッポイド】Lost Christmas【GUMIオリジナル曲】",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/11/29"
+  },
+  {
+    "id": "nm8885806",
+    "title": "鏡音レン「北へ行く歌」(オリジナル曲)",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/11/29"
+  },
+  {
+    "id": "sm8896446",
+    "title": "暫定版 GUMI新曲ランキング ～2009/11/22",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/11/29"
+  },
+  {
+    "id": "sm9036273",
+    "title": "暫定版 GUMI新曲ランキング ～2009/12/6 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/11/29"
+  },
+  {
+    "id": "Video ID",
+    "title": "Title",
+    "availability": "Availability",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/11/29"
+  },
+  {
+    "id": "sm9036273",
+    "title": "暫定版 GUMI新曲ランキング ～2009/12/6",
+    "availability": "Main Video",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/12/6"
+  },
+  {
+    "id": "nm9019832",
+    "title": "Nicolog fetch failed",
+    "availability": "Unavailable",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/12/6"
+  },
+  {
+    "id": "sm8947149",
+    "title": "Nicolog fetch failed",
+    "availability": "Unavailable",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/12/6"
+  },
+  {
+    "id": "sm9014179",
+    "title": "Nicolog fetch failed",
+    "availability": "Unavailable",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/12/6"
+  },
+  {
+    "id": "sm8916538",
+    "title": "【めぐっぽいど･重音テト】星間飛行【キラッ☆･キメラッ☆】",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/12/6"
+  },
+  {
+    "id": "sm8947092",
+    "title": "Nicolog fetch failed",
+    "availability": "Unavailable",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/12/6"
+  },
+  {
+    "id": "nm8972693",
+    "title": "【NOVVHERE】おやすみ ＧＵＭＩ．ｖｅｒ【feat.GUMI】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/12/6"
+  },
+  {
+    "id": "sm9013342",
+    "title": "【メグッポイド】壊れたラジオ【オリジナル曲】",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/12/6"
+  },
+  {
+    "id": "sm8914154",
+    "title": "Nicolog fetch failed",
+    "availability": "Unavailable",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/12/6"
+  },
+  {
+    "id": "sm8962724",
+    "title": "【メグッポイド】聖なる欠片【PV付き・オリジナル】",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/12/6"
+  },
+  {
+    "id": "sm8966134",
+    "title": "【MikuMikuDance】 私が自転車に乗らなくなった訳",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/12/6"
+  },
+  {
+    "id": "sm9020006",
+    "title": "Nicolog fetch failed",
+    "availability": "Unavailable",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/12/6"
+  },
+  {
+    "id": "sm9003832",
+    "title": "Nicolog fetch failed",
+    "availability": "Unavailable",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/12/6"
+  },
+  {
+    "id": "sm8966558",
+    "title": "【GUMI】ホワイト・イヴ【クリスマスは過ぎても】",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/12/6"
+  },
+  {
+    "id": "nm8966671",
+    "title": "Gumiでｵﾘｼﾞﾅﾙ「Yuki」 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/12/6"
+  },
+  {
+    "id": "sm8980004",
+    "title": "【Megpoid】アシタノヒカリ（半音上げver.）【オリジナル】",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/12/6"
+  },
+  {
+    "id": "sm8983983",
+    "title": "【メグッポイド(GUMI)】LOVE&DELUSION【オリジナル】",
+    "availability": "Unavailable",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/12/6"
+  },
+  {
+    "id": "sm8961289",
+    "title": "【メグッポイド(GUMI)】　winter sleep　【オリジナル】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/12/6"
+  },
+  {
+    "id": "sm9006145",
+    "title": "【メグッポイド】あなたよ、さよなら(part1)【ＧＵＭＩオリジナル曲】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/12/6"
+  },
+  {
+    "id": "sm8979470",
+    "title": "GUMI＆がくこのラジオごっこ【トークロイド】",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/12/6"
+  },
+  {
+    "id": "sm9016491",
+    "title": "Nicolog fetch failed",
+    "availability": "Unavailable",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/12/6"
+  },
+  {
+    "id": "sm8995832",
+    "title": "【メグッポイド】Carnival～クリスマスは滅びた～【GUMIオリジナル曲】",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/12/6"
+  },
+  {
+    "id": "sm8993210",
+    "title": "【GUMiki】miki＆GUMIが歌う「アヴェ・マリア」ビクトリア(8声) v1.0",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/12/6"
+  },
+  {
+    "id": "sm8957491",
+    "title": "君の知らない物語を合わせてみた【GUMI・ルカ】",
+    "availability": "Unavailable",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/12/6"
+  },
+  {
+    "id": "sm9002278",
+    "title": "【トークロイド】ボーカロイドたちの日常21『新人4人、襲来』",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/12/6"
+  },
+  {
+    "id": "sm8976018",
+    "title": "【メグッポイド(GUMI)】ニジイロノキセキ【オリジナル】",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/12/6"
+  },
+  {
+    "id": "sm8965216",
+    "title": "【めぐっぽいど】　緑子ぶるうばれい",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/12/6"
+  },
+  {
+    "id": "sm8968508",
+    "title": "暫定版 GUMI新曲ランキング ～2009/11/29",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/12/6"
+  },
+  {
+    "id": "sm9096340",
+    "title": "暫定版 GUMI新曲ランキング ～2009/12/13",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/12/6"
+  },
+  {
+    "id": "Video ID",
+    "title": "Title",
+    "availability": "Availability",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/12/6"
+  },
+  {
+    "id": "sm9096340",
+    "title": "暫定版 GUMI新曲ランキング ～2009/12/13",
+    "availability": "Main Video",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/12/13"
+  },
+  {
+    "id": "nm9079960",
+    "title": "メグッポイドにみずいろの雨を歌ってもらった",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/12/13"
+  },
+  {
+    "id": "nm9056951",
+    "title": "Nicolog fetch failed",
+    "availability": "Unavailable",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/12/13"
+  },
+  {
+    "id": "sm9079251",
+    "title": "【メルト】をメグッポイドに歌ってもらった☆(耳コピ)＜ヘッドフォン版 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/12/13"
+  },
+  {
+    "id": "sm9026921",
+    "title": "Nicolog fetch failed",
+    "availability": "Unavailable",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/12/13"
+  },
+  {
+    "id": "sm9044276",
+    "title": "【メグッポイド(GUMI)】　Holy Night　【オリジナル】",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/12/13"
+  },
+  {
+    "id": "nm9027315",
+    "title": "Bad Apple(本家＋GUMI) - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/12/13"
+  },
+  {
+    "id": "sm9059279",
+    "title": "Nicolog fetch failed",
+    "availability": "Unavailable",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/12/13"
+  },
+  {
+    "id": "sm9077205",
+    "title": "【メグッポイド　GUMI　オリジナル】　クリスタル・ハート - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/12/13"
+  },
+  {
+    "id": "nm9014876",
+    "title": "【讃美歌21】あら野のはてに/きよしこの夜【Vocaloid合唱団】",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/12/13"
+  },
+  {
+    "id": "sm9023979",
+    "title": "コメントを音声合成、組曲『電子工作』 feat. VOCALOID編 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/12/13"
+  },
+  {
+    "id": "sm9049307",
+    "title": "【初音ミクと仲間たち】　ドリフのズンドコ節　【ザ・ドリフターズ】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/12/13"
+  },
+  {
+    "id": "sm9077105",
+    "title": "【メグッポイド】エンドレス pow! remix【リミックス】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/12/13"
+  },
+  {
+    "id": "sm9039092",
+    "title": "GUMIに「only my railgun」を歌わせてみた",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/12/13"
+  },
+  {
+    "id": "sm9025039",
+    "title": "【トークロイド】妹に電話してみた【ルカ＆がくぽ＆GUMI】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/12/13"
+  },
+  {
+    "id": "sm9064393",
+    "title": "プリンプリン物語 feat.GUMI - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/12/13"
+  },
+  {
+    "id": "sm9074517",
+    "title": "GUMIオリジナル曲 『Snow Marriage』 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/12/13"
+  },
+  {
+    "id": "nm9046328",
+    "title": "【めぐっぽいど】Glassy heart【GUMIオリジナル曲】",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/12/13"
+  },
+  {
+    "id": "sm9057981",
+    "title": "[めぐっぽいど]  ささいなこと  [オリジナル　PV風] - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/12/13"
+  },
+  {
+    "id": "sm9037991",
+    "title": "【ボーカロイド４コマ劇場】ボカロマンガに声をあててみた【執筆篇２】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/12/13"
+  },
+  {
+    "id": "sm9048162",
+    "title": "【合唱曲】 ホワイト☆クリスマス 【オリジナル】",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/12/13"
+  },
+  {
+    "id": "sm9036269",
+    "title": "[GUMI] 白昼、黒く透明 / TOKOTOKO（西沢さんP） - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/12/13"
+  },
+  {
+    "id": "sm9076096",
+    "title": "【SF-A2 miki】発光体のルーディ【オリジナル曲】",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/12/13"
+  },
+  {
+    "id": "sm9036273",
+    "title": "暫定版 GUMI新曲ランキング ～2009/12/6 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/12/13"
+  },
+  {
+    "id": "sm9158400",
+    "title": "暫定版 GUMI新曲ランキング ～2009/12/20",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/12/13"
+  },
+  {
+    "id": "Video ID",
+    "title": "Title",
+    "availability": "Availability",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/12/13"
+  },
+  {
+    "id": "sm9158400",
+    "title": "暫定版 GUMI新曲ランキング ～2009/12/20",
+    "availability": "Main Video",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/12/20"
+  },
+  {
+    "id": "sm9109411",
+    "title": "【GUMIオリジナル】Before The Day【コラボ】(完成版） - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/12/20"
+  },
+  {
+    "id": "sm9094430",
+    "title": "【VOCALOID】　この木何の木　～日立の樹～",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/12/20"
+  },
+  {
+    "id": "nm9092508",
+    "title": "Bad_Apple(MEIKO＋GUMI)",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/12/20"
+  },
+  {
+    "id": "sm9062093",
+    "title": "Nicolog fetch failed",
+    "availability": "Unavailable",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/12/20"
+  },
+  {
+    "id": "nm9099479",
+    "title": "Nicolog fetch failed",
+    "availability": "Unavailable",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/12/20"
+  },
+  {
+    "id": "nm9079960",
+    "title": "メグッポイドにみずいろの雨を歌ってもらった",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/12/20"
+  },
+  {
+    "id": "sm9107868",
+    "title": "【マクロスＦ】シェリルとランカでノーザンクロス【メグッポイド】",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/12/20"
+  },
+  {
+    "id": "sm9121584",
+    "title": "【めぐっぽいど！】 エースをねらえ！ 【full.ver】",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/12/20"
+  },
+  {
+    "id": "sm9118984",
+    "title": "Nicolog fetch failed",
+    "availability": "Unavailable",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/12/20"
+  },
+  {
+    "id": "sm9140805",
+    "title": "【GUMI】 Lonely christmas 【メグッポイド】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/12/20"
+  },
+  {
+    "id": "sm9111607",
+    "title": "【メグッポイド】ファミリーマート・コスモス【歌わせてみた】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/12/20"
+  },
+  {
+    "id": "sm9138901",
+    "title": "メグッポイドに「私はピアノ」を歌わせてみた。(隅ｐ) - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/12/20"
+  },
+  {
+    "id": "sm9114229",
+    "title": "【メグッポイド】 とあるお堂の仏像微笑 (オリジナル) 【GUMI】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/12/20"
+  },
+  {
+    "id": "sm9100543",
+    "title": "【VOCALOID12人で】magnet【合わせてみた】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/12/20"
+  },
+  {
+    "id": "sm9091302",
+    "title": "Nicolog fetch failed",
+    "availability": "Unavailable",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/12/20"
+  },
+  {
+    "id": "sm9114787",
+    "title": "Nicolog fetch failed",
+    "availability": "Unavailable",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/12/20"
+  },
+  {
+    "id": "sm9131816",
+    "title": "クリスマスっぽいGUMIで『my song』",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/12/20"
+  },
+  {
+    "id": "sm9119189",
+    "title": "【ミク＆メグポ】Disparate Soul【オリジナル曲】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/12/20"
+  },
+  {
+    "id": "sm9093261",
+    "title": "【GUMI】冬のうた【オリジナル】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/12/20"
+  },
+  {
+    "id": "sm9099381",
+    "title": "【KAITOとGUMIが】金の波千の波【弾いてみたを聴いて歌いだしました】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/12/20"
+  },
+  {
+    "id": "nm9138928",
+    "title": "【メグッポイド】 ありふれた嘘",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/12/20"
+  },
+  {
+    "id": "nm9120234",
+    "title": "【メグッポイド】粉雪メロディー【あルカPのオリジナル曲】",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/12/20"
+  },
+  {
+    "id": "sm9133187",
+    "title": "【GUMI】winter glitter【オリジナル】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/12/20"
+  },
+  {
+    "id": "nm9126772",
+    "title": "【ミクミキグミ】粉雪メロディー【あルカPのオリジナル曲】",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/12/20"
+  },
+  {
+    "id": "sm9067289",
+    "title": "メグメグ☆ロマンティックフィーバー 【マッシュアップ】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/12/20"
+  },
+  {
+    "id": "sm9113690",
+    "title": "VOCALOID達によるアイマス神曲メドレー！",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/12/20"
+  },
+  {
+    "id": "sm9096340",
+    "title": "暫定版 GUMI新曲ランキング ～2009/12/13",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/12/20"
+  },
+  {
+    "id": "sm9229341",
+    "title": "暫定版 GUMI新曲ランキング ～2009/12/27 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/12/20"
+  },
+  {
+    "id": "sm9166958",
+    "title": "がく＆グミ新曲ランキング ～2009/12/20",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/12/20"
+  },
+  {
+    "id": "Video ID",
+    "title": "Title",
+    "availability": "Availability",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/12/20"
+  },
+  {
+    "id": "sm9229341",
+    "title": "暫定版 GUMI新曲ランキング ～2009/12/27",
+    "availability": "Main Video",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/12/27"
+  },
+  {
+    "id": "nm9172671",
+    "title": "Nicolog fetch failed",
+    "availability": "Unavailable",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/12/27"
+  },
+  {
+    "id": "sm9211994",
+    "title": "【男声MEIKOさん＆体験版GUMIちゃん】スタミナ【歌ってもらった】",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/12/27"
+  },
+  {
+    "id": "nm9188808",
+    "title": "Nicolog fetch failed",
+    "availability": "Unavailable",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/12/27"
+  },
+  {
+    "id": "sm9188512",
+    "title": "【メグっぽい独唱】 Snow change to - 【ピアノ】",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/12/27"
+  },
+  {
+    "id": "sm9197878",
+    "title": "Nicolog fetch failed",
+    "availability": "Unavailable",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/12/27"
+  },
+  {
+    "id": "sm9199659",
+    "title": "【日本語ボカロ】いろはカルタ【オリジナル曲】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/12/27"
+  },
+  {
+    "id": "sm9199890",
+    "title": "【コミケ７７】ふゆこいボックス【クロスフェードデモ】",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/12/27"
+  },
+  {
+    "id": "sm9201423",
+    "title": "【MEIKOさん＆体験版GUMIちゃん】ロボキッス【歌ってもらった】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/12/27"
+  },
+  {
+    "id": "sm9202909",
+    "title": "【初音ミク】思国歌【古事記・日本書紀】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/12/27"
+  },
+  {
+    "id": "sm9109411",
+    "title": "【GUMIオリジナル】Before The Day【コラボ】(完成版） - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/12/27"
+  },
+  {
+    "id": "sm9162925",
+    "title": "Poison Apple! feat.GUMI - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/12/27"
+  },
+  {
+    "id": "sm9156495",
+    "title": "（GUMI） 『恋泥棒とサギ師ごっこ。』　（オリジナル） - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/12/27"
+  },
+  {
+    "id": "sm9196944",
+    "title": "Sweet Bittter Christmas",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/12/27"
+  },
+  {
+    "id": "sm9170834",
+    "title": "Nicolog fetch failed",
+    "availability": "Unavailable",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/12/27"
+  },
+  {
+    "id": "sm9174418",
+    "title": "Nicolog fetch failed",
+    "availability": "Unavailable",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/12/27"
+  },
+  {
+    "id": "sm9191135",
+    "title": "【GUMIオリジナル曲】GUMIの一日ロックンロール【メグッポイド】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/12/27"
+  },
+  {
+    "id": "sm9153069",
+    "title": "【マクロスF】 星間飛行／ランカ、初音ミク、GUMI、他 【混ぜてみた】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/12/27"
+  },
+  {
+    "id": "sm9188991",
+    "title": "【DxMFestival2】一緒にいたいね♪【小芝居つき】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/12/27"
+  },
+  {
+    "id": "sm9152404",
+    "title": "【メグッポイド(GUMI)】　Color of Magic　【オリジナル】",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/12/27"
+  },
+  {
+    "id": "nm9173412",
+    "title": "Nicolog fetch failed",
+    "availability": "Unavailable",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/12/27"
+  },
+  {
+    "id": "sm9164292",
+    "title": "【めぐっぽいど！】 R・ブースター 【オリジナル曲】",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/12/27"
+  },
+  {
+    "id": "sm9167879",
+    "title": "【巡音ルカ】【初音ミク】「荒野の果てに」【GUMI】【鏡音リン】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/12/27"
+  },
+  {
+    "id": "sm9199897",
+    "title": "【トークロイド】ボーカロイドたちの日常22『やる気の無いサンタ』 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/12/27"
+  },
+  {
+    "id": "sm9177205",
+    "title": "【メグッポイド】White present【オリジナル曲】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/12/27"
+  },
+  {
+    "id": "sm9151804",
+    "title": "【megpoid】桜咲く頃【オリジナル】feat. GUMI",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/12/27"
+  },
+  {
+    "id": "sm9148957",
+    "title": "【初音ミク＆GUMI】Dreaming of you−X ver.−【オリジナル】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/12/27"
+  },
+  {
+    "id": "sm9164639",
+    "title": "【GUMI&氷山キヨテル】 Etude No.3 【オリジナル曲】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/12/27"
+  },
+  {
+    "id": "sm9199544",
+    "title": "【MMD】ルカルカ★ナイトフィーバー feat. GUMI (radioEdit)",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/12/27"
+  },
+  {
+    "id": "sm9150719",
+    "title": "【GUMI】Dazzling World を歌ってもらった - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/12/27"
+  },
+  {
+    "id": "sm9217188",
+    "title": "【鏡音リン vs 鏡音レン】人狼狂死曲【オリジナル曲】",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/12/27"
+  },
+  {
+    "id": "sm9178643",
+    "title": "【初音ミク】ウィンターライト【オリジナル曲】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/12/27"
+  },
+  {
+    "id": "sm9158400",
+    "title": "暫定版 GUMI新曲ランキング ～2009/12/20",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/12/27"
+  },
+  {
+    "id": "sm9297572",
+    "title": "暫定版 GUMI新曲ランキング ～2010/1/3",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/12/27"
+  },
+  {
+    "id": "sm9234240",
+    "title": "がくぽ・GUMI新曲ランキング ～2009/12/27",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/12/27"
+  },
+  {
+    "id": "Video ID",
+    "title": "Title",
+    "availability": "Availability",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2009/12/27"
+  },
+  {
+    "id": "sm9297572",
+    "title": "暫定版 GUMI新曲ランキング ～2010/1/3",
+    "availability": "Main Video",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2010/1/3"
+  },
+  {
+    "id": "sm9297420",
+    "title": "がくぽ・GUMI新曲ランキング ～2010/1/3",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2010/1/3"
+  },
+  {
+    "id": "nm9172671",
+    "title": "Nicolog fetch failed",
+    "availability": "Unavailable",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2010/1/3"
+  },
+  {
+    "id": "sm9233521",
+    "title": "【メグッポイド】Ｃｒａｓｈ２０１０ＧｕＭｉｘ【カバー】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2010/1/3"
+  },
+  {
+    "id": "nm9242907",
+    "title": "Nicolog fetch failed",
+    "availability": "Unavailable",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2010/1/3"
+  },
+  {
+    "id": "sm9248803",
+    "title": "GUMI+MIKI 「君の知らない物語」(畫面音聲剪輯) - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2010/1/3"
+  },
+  {
+    "id": "sm9267920",
+    "title": "【メグッポイド】Starduster【カバー】",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2010/1/3"
+  },
+  {
+    "id": "nm9269315",
+    "title": "Nicolog fetch failed",
+    "availability": "Unavailable",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2010/1/3"
+  },
+  {
+    "id": "sm9279004",
+    "title": "（ボーカロイド－megpoid-オリジナル）仕事をください。３０歳",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2010/1/3"
+  },
+  {
+    "id": "sm9240780",
+    "title": "【メグッポイド＆がくっぽいど】僕みたいな君　君みたいな僕【カバー】",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2010/1/3"
+  },
+  {
+    "id": "sm9271635",
+    "title": "【めぐっぽいど】2010年がやってきました（ｵﾘｼﾞﾅﾙ） - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2010/1/3"
+  },
+  {
+    "id": "sm9271159",
+    "title": "【メグッポイド】檄!帝国華撃団【サクラ大戦】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2010/1/3"
+  },
+  {
+    "id": "sm9216628",
+    "title": "【GUMI-MEGPOID】恋をしようよ【オリジナル】",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2010/1/3"
+  },
+  {
+    "id": "sm9271221",
+    "title": "te　miki　miku　megu - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2010/1/3"
+  },
+  {
+    "id": "nm9218732",
+    "title": "Nicolog fetch failed",
+    "availability": "Unavailable",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2010/1/3"
+  },
+  {
+    "id": "sm9262682",
+    "title": "【GUMIちゃんに】忘却心中【歌ってもらった】",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2010/1/3"
+  },
+  {
+    "id": "nm9238519",
+    "title": "Nicolog fetch failed",
+    "availability": "Unavailable",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2010/1/3"
+  },
+  {
+    "id": "sm9241877",
+    "title": "【メグッポイド】 プログラマの詩 【OSたん】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2010/1/3"
+  },
+  {
+    "id": "sm9253764",
+    "title": "【男声MEIKOさん＆体験版GUMIちゃん】冬のファンタジー【歌ってもらった】",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2010/1/3"
+  },
+  {
+    "id": "sm9284403",
+    "title": "2010謹賀新年！！【トークロイド】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2010/1/3"
+  },
+  {
+    "id": "sm9280160",
+    "title": "【メグッポイド】トシノハジメ【オリジナル】",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2010/1/3"
+  },
+  {
+    "id": "sm9237380",
+    "title": "Nicolog fetch failed",
+    "availability": "Unavailable",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2010/1/3"
+  },
+  {
+    "id": "sm9279357",
+    "title": "【ユニットRGB】  only my railgun 【miki＆めぐ＆ミク】   - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2010/1/3"
+  },
+  {
+    "id": "sm9220649",
+    "title": "【MEIKOさん＆体験版GUMIちゃん】セーラー服を脱がさないで【歌(ry】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2010/1/3"
+  },
+  {
+    "id": "sm9268447",
+    "title": "合唱　一月一日 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2010/1/3"
+  },
+  {
+    "id": "sm9247716",
+    "title": "メグッポイドがうたう恋愛サーキュレーション",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2010/1/3"
+  },
+  {
+    "id": "sm9255006",
+    "title": "【メグッポイド】恋愛サーキュレーション",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2010/1/3"
+  },
+  {
+    "id": "nm9235883",
+    "title": "Nicolog fetch failed",
+    "availability": "Unavailable",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2010/1/3"
+  },
+  {
+    "id": "nm9267916",
+    "title": "Nicolog fetch failed",
+    "availability": "Unavailable",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2010/1/3"
+  },
+  {
+    "id": "nm9282943",
+    "title": "【メグッポイド】BLUE DOOR【オリジナル曲】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2010/1/3"
+  },
+  {
+    "id": "nm9277913",
+    "title": "【メグッポイド】花【オリジナル】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2010/1/3"
+  },
+  {
+    "id": "sm9264533",
+    "title": "【GUMI】 unfade 【オリジナル曲】 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2010/1/3"
+  },
+  {
+    "id": "sm9251734",
+    "title": "花結び【ボーカロイド合唱コラボオリジナル曲】",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2010/1/3"
+  },
+  {
+    "id": "sm9229341",
+    "title": "暫定版 GUMI新曲ランキング ～2009/12/27 - ニコニコ",
+    "availability": "Available",
+    "vocarank": "暫定版 GUMI新曲ランキング ～2010/1/3"
   }
 ];

@@ -3,75 +3,55 @@ from bs4 import BeautifulSoup
 import re
 import json
 import csv
+from concurrent.futures import ThreadPoolExecutor, as_completed
 
 video_urls = [
-    'https://www.nicovideo.jp/watch/sm1612998', 
-    'https://www.nicovideo.jp/watch/sm1729084', 
-    'https://www.nicovideo.jp/watch/sm1729209', 
-    'https://www.nicovideo.jp/watch/sm1762494', 
-    'https://www.nicovideo.jp/watch/sm1770292', 
-    'https://www.nicovideo.jp/watch/sm1833971',
-    'https://www.nicovideo.jp/watch/sm1834216', 
-    'https://www.nicovideo.jp/watch/sm1883012', 
-    'https://www.nicovideo.jp/watch/sm1883310', 
-    'https://www.nicovideo.jp/watch/sm1997225', 
-    'https://www.nicovideo.jp/watch/sm1999088', 
-    'https://www.nicovideo.jp/watch/sm2090520',
-    'https://www.nicovideo.jp/watch/sm2091811', 
-    'https://www.nicovideo.jp/watch/sm2153944', 
-    'https://www.nicovideo.jp/watch/sm2154380', 
-    'https://www.nicovideo.jp/watch/sm2154810', 
-    'https://www.nicovideo.jp/watch/sm2154810', 
-    'https://www.nicovideo.jp/watch/sm2373499',
-    'https://www.nicovideo.jp/watch/sm2379839', 
-    'https://www.nicovideo.jp/watch/sm2692344', 
-    'https://www.nicovideo.jp/watch/sm2692674', 
-    'https://www.nicovideo.jp/watch/sm2695940', 
-    'https://www.nicovideo.jp/watch/sm2929487', 
-    'https://www.nicovideo.jp/watch/sm2914127',
-    'https://www.nicovideo.jp/watch/sm3033436', 
-    'https://www.nicovideo.jp/watch/sm3033613', 
-    'https://www.nicovideo.jp/watch/sm3033727', 
-    'https://www.nicovideo.jp/watch/sm3214814', 
-    'https://www.nicovideo.jp/watch/sm3216054', 
-    'https://www.nicovideo.jp/watch/sm1833971',
-    'https://www.nicovideo.jp/watch/sm3218066', 
-    'https://www.nicovideo.jp/watch/sm3218676', 
-    'https://www.nicovideo.jp/watch/sm4053125', 
-    'https://www.nicovideo.jp/watch/sm4053795', 
-    'https://www.nicovideo.jp/watch/sm4054429', 
-    'https://www.nicovideo.jp/watch/sm4279997',
-    'https://www.nicovideo.jp/watch/sm4283532', 
-    'https://www.nicovideo.jp/watch/sm4283767', 
-    'https://www.nicovideo.jp/watch/sm5295272', 
-    'https://www.nicovideo.jp/watch/sm5297317', 
-    'https://www.nicovideo.jp/watch/sm5297716', 
-    'https://www.nicovideo.jp/watch/sm6478546',
-    'https://www.nicovideo.jp/watch/sm6479346', 
-    'https://www.nicovideo.jp/watch/sm2692344', 
-    'https://www.nicovideo.jp/watch/sm2692674', 
-    'https://www.nicovideo.jp/watch/sm2695940', 
-    'https://www.nicovideo.jp/watch/sm2929487', 
-    'https://www.nicovideo.jp/watch/sm2914127'
-] # This is the NPC playlist (https://www.nicovideo.jp/mylist/3678045). Should function with any vocaranks that have LINKED songs in their descs.
+     'https://www.nicovideo.jp/watch/sm7764520',
+     'https://www.nicovideo.jp/watch/sm7764680',
+     'https://www.nicovideo.jp/watch/sm7764782',
+     'https://www.nicovideo.jp/watch/sm7764858',
+     'https://www.nicovideo.jp/watch/sm7833382',
+     'https://www.nicovideo.jp/watch/sm7899829',
+     'https://www.nicovideo.jp/watch/sm7967300',
+     'https://www.nicovideo.jp/watch/sm8034349',
+     'https://www.nicovideo.jp/watch/sm8101678',
+     'https://www.nicovideo.jp/watch/sm8165835',
+     'https://www.nicovideo.jp/watch/sm8232775',
+     'https://www.nicovideo.jp/watch/sm8295624',
+     'https://www.nicovideo.jp/watch/sm8370272',
+     'https://www.nicovideo.jp/watch/sm8433635',
+     'https://www.nicovideo.jp/watch/sm8494034',
+     'https://www.nicovideo.jp/watch/sm8563638',
+     'https://www.nicovideo.jp/watch/sm8628740',
+     'https://www.nicovideo.jp/watch/sm8697039',
+     'https://www.nicovideo.jp/watch/sm8764587',
+     'https://www.nicovideo.jp/watch/sm8832621',
+     'https://www.nicovideo.jp/watch/sm8896446',
+     'https://www.nicovideo.jp/watch/sm8968508',
+     'https://www.nicovideo.jp/watch/sm9036273',
+     'https://www.nicovideo.jp/watch/sm9096340',
+     'https://www.nicovideo.jp/watch/sm9158400',
+     'https://www.nicovideo.jp/watch/sm9229341',
+     'https://www.nicovideo.jp/watch/sm9297572'
+] # Should function with any vocaranks that have LINKED songs in their descs.
+pattern = re.compile(r'https://www.nicovideo.jp/watch/(sm\d+|nm\d+)')
 
 def extract_links_from_description(description_data):
-    pattern = re.compile(r'https://www.nicovideo.jp/watch/(sm\d+|nm\d+)')
     return pattern.findall(description_data)
 
 def get_video_title_and_availability(url):
     print(f"Fetching title from: {url}")
     response = requests.get(url)
     soup = BeautifulSoup(response.text, 'html.parser')
-    title_tag = soup.find('title')
+    title_tag = soup.select_one('title')
     original_title = title_tag.text.strip() if title_tag else 'Title not found'
 
-    if original_title == 'ニコニコ動画': #If the song is deleted, the title element will return "ニコニコ動画", so this tells it to defer to nicolog in that case
+    if original_title == 'ニコニコ動画':
         nicolog_url = url.replace('nicovideo', 'nicolog')
         print(f"Attempting title fetch from Nicolog: {nicolog_url}")
         nicolog_response = requests.get(nicolog_url)
         nicolog_soup = BeautifulSoup(nicolog_response.text, 'html.parser')
-        nicolog_title_tag = nicolog_soup.find('meta', {'property': 'og:title'})
+        nicolog_title_tag = nicolog_soup.select_one('meta[property="og:title"]')
         if nicolog_title_tag:
             nicolog_title = nicolog_title_tag.get('content', '').replace('ニコログ｜', '').strip()
             if nicolog_title:
@@ -88,14 +68,12 @@ def get_video_title_and_availability(url):
         available = "Available"
 
     print(f"Title: {title}, Available: {available}")
-    return title, available
+    return url.split('/')[-1], title, available
 
-videos_info = []
-
-for url in video_urls:
+def process_url(url):
     response = requests.get(url)
     soup = BeautifulSoup(response.text, 'html.parser')
-    json_data_div = soup.find('div', {'id': 'js-initial-watch-data'})
+    json_data_div = soup.select_one('#js-initial-watch-data')
     main_video_id = url.split('/')[-1]
 
     if json_data_div:
@@ -109,18 +87,24 @@ for url in video_urls:
             video_group_info = [('Video ID', 'Title', 'Availability')]
             video_group_info.append((main_video_id, main_video_title, 'Main Video'))
 
-            for video_id in video_ids:
-                video_title, available = get_video_title_and_availability(f'https://www.nicovideo.jp/watch/{video_id}')
-                video_group_info.append((video_id, video_title, available))
+            with ThreadPoolExecutor() as executor:
+                futures = [executor.submit(get_video_title_and_availability, f'https://www.nicovideo.jp/watch/{video_id}') for video_id in video_ids]
+                for future in as_completed(futures):
+                    video_id, video_title, available = future.result()
+                    video_group_info.append((video_id, video_title, available))
 
-            videos_info.append(video_group_info)
+            return video_group_info
         else:
             print('No JSON data found in the HTML.')
     else:
         print('No JSON data container found.')
 
+with ThreadPoolExecutor() as executor:
+    futures = [executor.submit(process_url, url) for url in video_urls]
+    videos_info = [future.result() for future in as_completed(futures) if future.result()]
+
 csv_filename = 'video_info.csv'
-with open(csv_filename, 'w', newline='', encoding='utf-8-sig') as file: #make sure to save as utf-8-sig since excel does NOT like regular utf 8 with japanese characters
+with open(csv_filename, 'w', newline='', encoding='utf-8-sig') as file:
     writer = csv.writer(file)
     for video_group in videos_info:
         writer.writerow([])

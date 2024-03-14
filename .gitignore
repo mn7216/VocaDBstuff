@@ -40,3 +40,9 @@ vocaranks/package.json
 vocaranks/vocarankdb.js
 vocaranks/video_info.csv
 vocaranks/convertCSV.js
+vocaranks/database2.js
+vocaranks/niconico_video_info.csv
+vocaranks/video_info2.csv
+vocaranks/video_info1.csv
+*.csv
+*.txt
