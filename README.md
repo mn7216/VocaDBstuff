@@ -10,7 +10,8 @@ As of 1.1, a [companion script for translating Nicolog](https://github.com/mn721
 
 Install a userscript manager such as [Greasemonkey](https://www.greasespot.net/), [Tampermonkey](https://www.tampermonkey.net/), or [Violentmonkey](https://violentmonkey.github.io/).
 
-[Click here to install the script.](https://github.com/mn7216/Vocalost/raw/main/vocalostutils.user.js)
+[Click here to install Vocalost Utils.](https://github.com/mn7216/Vocalost/raw/main/vocalostutils.user.js)
+[Click here to install Nicolog Translation](https://github.com/mn7216/Vocalost/raw/main/nicologtlhelper.user.js)
 
 The script should now be installed!
 
