@@ -27712,7 +27712,7 @@ const database = [
     "title": "暫定版 GUMI新曲ランキング ～2009/12/27 - ニコニコ",
     "availability": "Available",
     "vocarank": "暫定版 GUMI新曲ランキング ～2010/1/3"
-  }
+  },
     {
     "id": "Video ID",
     "title": "Title",
