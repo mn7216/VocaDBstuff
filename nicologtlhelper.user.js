@@ -29,6 +29,7 @@
         '履歴はありません。': 'No history available.',
         '動画説明': 'Description: ‎ ',
         '取得日時': 'Archival Date/Time ‎ ',
+        'エラー：この動画は存在しないか、削除された可能性があります。': 'Error: This video does not exist or may have been deleted.',
 // The u+200E character is used cause html HATES multiple spaces and just compresses them into 1 which is annoying and looks bad so abuse this unicode character to get around it
     };
 
