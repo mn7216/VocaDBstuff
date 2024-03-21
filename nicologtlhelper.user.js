@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         VocaUtils Helper: Translation for Nicolog
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/mn7216/Vocalost
 // @version      0.1
 // @description  Make Nicolog easier to use for people less comfortable with Japanese, and without Google Translate's tendency to mess up formatting and give incorrect translations.
 // @author       MN_7216
