@@ -78,12 +78,16 @@
     function getAllTextNodes() {
         var result = [];
         (function scanSubTree(node) {
-            if (node.nodeType == 3) result.push(node);
-            else for (var i = 0; i < node.childNodes.length; i++)
-                scanSubTree(node.childNodes[i]);
-        })(document.body);
-        return result;
+            if (node.nodeType == 3) {
+                result.push(node);
+         } else {
+         for (var i = 0; i < node.childNodes.length; i++) {
+             scanSubTree(node.childNodes[i]);
+      }
     }
+  })(document.body);
+  return result;
+}
 
     function replaceTextOnPage(from, to, isRegex = false) {
         getAllTextNodes().forEach(function(node) {
