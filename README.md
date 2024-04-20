@@ -6,6 +6,8 @@ This Userscript aims to make the process of identifying, searching for, and arch
 
 As of 1.1, a [companion script for translating Nicolog](https://github.com/mn7216/Vocalost/wiki#nicolog-translation-helper) is available. 
 
+As of 1.3, a [companion script for downloading locked Piapro songs is available](https://github.com/mn7216/Vocalost/wiki#Piapro-DL) is available. 
+
 # Installation:
 
 Install a userscript manager such as [Greasemonkey](https://www.greasespot.net/), [Tampermonkey](https://www.tampermonkey.net/), or [Violentmonkey](https://violentmonkey.github.io/).
