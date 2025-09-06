@@ -1,6 +1,6 @@
 # Vocalost Utils:
 
-This Userscript aims to make the process of identifying, searching for, and archiving a lost song easier. It makes common ways of finding a song much faster as you can simply use the menu's functions rather than manually going through the process of, for example, copy-pasting a song's id into Nicolog and trying to find it.
+This Userscript aims to provide general-use tools to aid users in adding certain videos (namely deleted ones) to VocaDB. It integrates common ways of finding a song, making the process much faster than doing them manually.
 
 ### Currently, it has a total of 20 functions, 5 for [User Pages](https://github.com/mn7216/Vocalost/wiki/User-Page) and 15 for [Video Pages](https://github.com/mn7216/Vocalost/wiki/Video-Pages). You can view the list of functions and what they do by clicking on the links or going to the [wiki](https://github.com/mn7216/Vocalost/wiki).
 
@@ -10,7 +10,7 @@ As of 1.3, a [companion script for downloading locked Piapro songs is available]
 
 # Installation:
 
-Install a userscript manager such as [Greasemonkey](https://www.greasespot.net/), [Tampermonkey](https://www.tampermonkey.net/), or [Violentmonkey](https://violentmonkey.github.io/).
+Install a userscript manager such as or [Violentmonkey](https://violentmonkey.github.io/) (recommended).
 
 [Click here to install Vocalost Utils.](https://github.com/mn7216/Vocalost/raw/main/vocalostutils.user.js)
 [Click here to install Nicolog Translation](https://github.com/mn7216/Vocalost/raw/main/nicologtlhelper.user.js)
@@ -27,13 +27,11 @@ Shown on a page of a deleted video:
 
 # Issues/Suggestions:
 
-If you're having problems with the script, or want to request a feature to be added, please [open an issue on Github](https://github.com/mn7216/Vocalost/issues) or message me on discord (HUK in vocalost discord).
+If you're having problems with the script, or want to request a feature to be added, please [open an issue on Github](https://github.com/mn7216/Vocalost/issues) or message me on discord (HUK in VocaDB discord).
 
 # Roadmap / Things I hope to implement in the future
 - [x] Inital Release
-- [ ] Have script reference database of all vocaranks that provide ids in their description (in progress)
-- [ ] Have script reference database of ALL vocaranks
-- [ ] Ability to search by song's name instead of ID (useful for finding reprints that don't include nnd id, i.e. the majority.)
+
 
 # Credit:
 

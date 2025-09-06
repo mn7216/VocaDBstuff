@@ -1,233 +1,154 @@
 // ==UserScript==
 // @name         Vocalost Utils for NicoNico
 // @namespace    https://github.com/mn7216/Vocalost
-// @version      1.3
-// @description  Make identifying, searching for, and archiving lost songs easier.
-// @author       MN_7216
+// @version      2.0
+// @author       MN_7216 
 // @match        https://www.nicovideo.jp/watch/*
 // @match        https://www.nicovideo.jp/user/*
 // @grant        none
-// @require      https://raw.githubusercontent.com/mn7216/Vocalost/main/vocaranks/database.js
 // @updateURL    https://raw.githubusercontent.com/mn7216/Vocalost/main/vocalostutils.user.js
 // @downloadURL  https://raw.githubusercontent.com/mn7216/Vocalost/main/vocalostutils.user.js
 // @supportURL   https://github.com/mn7216/Vocalost/issues
 // ==/UserScript==
 
-(function() {
-    'use strict';
+(() => {
+  'use strict';
 
-    const pageUrl = window.location.href;
-    const isUserPage = pageUrl.includes('/user/');
-    let baseId = getPageBaseId(pageUrl);
-    const numericId = extractNumericId(baseId);
-
-    let tabsContent = generateTabsContent(isUserPage, baseId, numericId, pageUrl);
-
-    const [menuButton, menuContent] = createMenuComponents();
-    setupMenuInteraction(menuButton, menuContent);
-    fillMenuWithTabs(menuContent, tabsContent);
-
-    document.body.appendChild(menuButton);
-    document.body.appendChild(menuContent);
-
-    // -- Utility Functions -- //
-    // 1. Get sm/nm link
-    function getPageBaseId(url) {
-        let id = url.split('/').pop();
-        if (id.includes('?')) {
-            id = id.split('?')[0];
-        }
-        return id;
+  /* ---------- CONFIG ---------- */
+  const CFG = {
+    video: {
+      Archives: [
+        ['Nicolog',  id => `https://www.nicolog.jp/watch/${id}`],
+        ['Hatena',   id => `https://b.hatena.ne.jp/entry/www.nicovideo.jp/watch/${id}`],
+        ['Nicopedia',id => `https://dic.nicovideo.jp/t/v/${id}`],
+        ['VocaDB',   id => `https://vocadb.net/Search?searchType=Song&filter=${encodeURIComponent('https://www.nicovideo.jp/watch/'+id)}`],
+        ['Archive',  url=> `https://web.archive.org/web/*/${url}`],
+        ['Thumb S',  nId=> `https://nicovideo.cdn.nimg.jp/thumbnails/${nId}/${nId}`],
+        ['Thumb M',  nId=> `https://nicovideo.cdn.nimg.jp/thumbnails/${nId}/${nId}.M`],
+        ['Thumb L',  nId=> `https://nicovideo.cdn.nimg.jp/thumbnails/${nId}/${nId}.L`],
+      ],
+      Search: [
+        ['Google',  id => `https://www.google.com/search?q="${id}"`],
+        ['Bing',    id => `https://www.bing.com/search?q="${id}"`],
+        ['NND',     id => `https://www.nicovideo.jp/search/${id}`],
+        ['Openlist',id => `https://www.nicovideo.jp/openlist/${id}`],
+        ['YouTube', id => `https://www.youtube.com/results?search_query="${id}"`],
+        ['Sogou',   id => `https://www.sogou.com/web?query="${id}"`],
+        ['Yandex',  id => `https://yandex.com/search/?text=${id}`],
+      ]
+    },
+    user: {
+      User: [
+        ['Nicolog',  id => `https://www.nicolog.jp/user/${id}`],
+        ['PFP 1', nId => `https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/${nId.slice(0,3)}/${nId}.jpg`],
+        ['PFP 2', nId => `https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/${nId.slice(0,4)}/${nId}.jpg`],
+        ['PFP 3', nId => `https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/${nId.slice(0,2)}/${nId}.jpg`],
+        ['Archive', url=> `https://web.archive.org/web/*/${url}`],
+      ]
     }
-    // 2. Only get the numbers after sm/nm (which some sites use instead of the sm/nm)
-    function extractNumericId(id) {
-        return id.replace(/\D/g, '');
+  };
+
+  const ICON = new Map([
+    [/google/i,'🔍'], [/bing|yandex/i,'🔎'], [/nnd/i,'🎵'], [/openlist/i,'📋'],
+    [/youtube/i,'▶️'], [/archive/i,'📚'], [/thumb/i,'🖼️'], [/nicolog/i,'📝'],
+    [/pfp/i,'👤'], [/hatena/i,'💬'], [/nicopedia/i,'📖'], [/vocadb/i,'🎤']
+  ]);
+
+  /* ---------- HELPERS ---------- */
+  const $ = (s, p = document) => p.querySelector(s);
+  const on = (el, ev, fn) => el.addEventListener(ev, fn);
+
+  function parsePage() {
+    const url  = location.href.split('?')[0];
+    const type = url.includes('/user/') ? 'user' : url.includes('/watch/') ? 'video' : null;
+    if (!type) return null;
+    const id   = url.split('/').pop();
+    return { type, baseId: id, numId: id.replace(/\D/g,''), cleanUrl: url };
+  }
+
+  function makeIcon(text) {
+    for (const [re, ic] of ICON) if (re.test(text)) return ic;
+    return '🔗';
+  }
+
+  /* ---------- UI ---------- */
+  function injectCSS() {
+    const s = document.createElement('style');
+    s.textContent = `
+    .vcl-btn{position:fixed;top:50%;right:0;transform:translateY(-50%);z-index:10000;
+             padding:12px 14px;background:linear-gradient(135deg,#3a7bd5,#00d2ff);
+             color:#fff;border-radius:8px 0 0 8px;cursor:pointer;box-shadow:0 4px 10px rgba(0,0,0,.2);
+             transition:all .3s ease;border:none;overflow:hidden}
+    .vcl-btn:hover{transform:translateY(-50%) translateX(-5px);box-shadow:0 6px 15px rgba(0,0,0,.25)}
+    .vcl-box{display:none;position:fixed;top:50%;right:50px;transform:translateY(-50%);z-index:10001;
+            background:#fff;border-radius:12px;padding:20px;width:320px;max-height:80vh;overflow-y:auto;
+            box-shadow:0 10px 25px rgba(0,0,0,.15);font-family:-apple-system,BlinkMacSystemFont,Roboto,sans-serif}
+    .vcl-box.show{display:block;animation:fadeIn .3s}
+    .vcl-head{text-align:center;margin-bottom:15px;padding-bottom:10px;border-bottom:1px solid #eaeaea}
+    .vcl-logo{font-size:20px;font-weight:bold;background:linear-gradient(135deg,#3a7bd5,#00d2ff);-webkit-background-clip:text;-webkit-text-fill-color:transparent}
+    .vcl-sub{font-size:12px;color:#888}
+    .vcl-tabs{display:flex;justify-content:center;gap:10px;margin-bottom:15px}
+    .vcl-tab{background:#f8f9fa;color:#555;border:none;padding:8px 16px;border-radius:8px;cursor:pointer;font-weight:600;font-size:14px;transition:all .2s}
+    .vcl-tab.active{background:#3a7bd5;color:#fff;box-shadow:0 4px 8px rgba(58,123,213,.3)}
+    .vcl-links{display:flex;flex-direction:column;gap:10px}
+    .vcl-link{width:100%;padding:12px 15px;text-align:left;background:#f8f9fa;border:1px solid #eaeaea;border-left:4px solid #3a7bd5;border-radius:8px;cursor:pointer;transition:all .2s;display:flex;align-items:center;font-size:14px}
+    .vcl-link:hover{transform:translateY(-2px);box-shadow:0 5px 15px rgba(0,0,0,.1);border-left-width:8px}
+    .vcl-ico{margin-right:12px;font-size:18px}
+    @keyframes fadeIn{from{opacity:0;transform:translateY(-50%) translateX(20px)}to{opacity:1;transform:translateY(-50%) translateX(0)}}
+    `;
+    document.head.appendChild(s);
+  }
+
+  function buildUI(page) {
+    const cfg = CFG[page.type];
+
+    const btn = document.createElement('button');
+    btn.className = 'vcl-btn';
+    btn.innerHTML = '<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M3 12h18M3 6h18M3 18h18"/></svg>';
+
+    const box = document.createElement('div');
+    box.className = 'vcl-box';
+    box.innerHTML = `
+      <div class="vcl-head"><div class="vcl-logo">Vocalost</div><div class="vcl-sub">NicoNico Utilities</div></div>
+      <div class="vcl-tabs"></div><div class="vcl-links"></div>`;
+
+    const tabs = $('.vcl-tabs', box);
+    const links= $('.vcl-links',box);
+
+    Object.keys(cfg).forEach((name, idx) => {
+      const tab = document.createElement('button');
+      tab.className = 'vcl-tab';
+      tab.textContent = name;
+      on(tab, 'click', () => {
+        document.querySelectorAll('.vcl-tab').forEach(t=>t.classList.remove('active'));
+        tab.classList.add('active');
+        renderLinks(cfg[name], page);
+      });
+      tabs.appendChild(tab);
+      if (!idx) tab.click();
+    });
+
+    on(btn, 'click', e => { e.stopPropagation(); box.classList.toggle('show'); });
+    on(document, 'click', e => {
+      if (!btn.contains(e.target) && !box.contains(e.target)) box.classList.remove('show');
+    });
+
+    document.body.append(btn, box);
+
+    function renderLinks(items, p) {
+      links.innerHTML = '';
+      items.forEach(([text, fn], i) => {
+        const a = document.createElement('button');
+        a.className = 'vcl-link';
+        a.innerHTML = `<span class="vcl-ico">${makeIcon(text)}</span><span>${text}</span>`;
+        const url = fn(p.type==='video'? p.baseId : p.numId, p.cleanUrl);
+        on(a, 'click', () => window.open(url, '_blank'));
+        links.appendChild(a);
+      });
     }
-    // 3. define the main features
-    function generateTabsContent(isUserPage, baseId, numericId, pageUrl) {
-        const databaseMatch = database.find(entry => entry.id === `sm${numericId}`);
+  }
 
-        if (isUserPage) {
-            return {
-                'User': [
-                    { text: 'Nicolog', url: `https://www.nicolog.jp/user/${baseId}` },
-                    { text: 'PFP 1', url: `https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/${substringForUserIcon(numericId, 3)}/${numericId}.jpg` },
-                    { text: 'PFP 2', url: `https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/${substringForUserIcon(numericId, 4)}/${numericId}.jpg` },
-                    { text: 'PFP 3', url: `https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/${substringForUserIcon(numericId, 2)}/${numericId}.jpg` }, // pfp can be stored with 2, 3, or 4 digits of the user's id (possibly more/less)
-                    { text: 'Archive.org', url: `https://web.archive.org/web/*/${pageUrl}` }
-                ]
-            };
-        } else {
-            return {
-                'Archives': generateArchiveLinks(baseId, numericId, pageUrl),
-                'Search': [
-                    { text: 'Google', url: `https://www.google.com/search?q="${baseId}"` },
-                    { text: 'Bing', url: `https://www.bing.com/search?q="${baseId}"` },
-                    { text: 'NND', url: `https://www.nicovideo.jp/search/${baseId}` },
-                    { text: 'Openlists', url: `https://www.nicovideo.jp/openlist/${baseId}` },
-                    { text: 'Youtube', url: `https://www.youtube.com/results?search_query="${baseId}"` },
-                    { text: 'Sogou', url: `https://www.sogou.com/web?query="${baseId}"` },
-                    { text: 'Yandex', url: `https://yandex.com/search/?text=+${baseId}` },
-                ],
-                'Database': databaseMatch ? [
-                    { text: `Title: ${databaseMatch.title}` },
-                    { text: `Availability: ${databaseMatch.availability}`, url: `https://www.nicolog.jp/watch/${baseId}` },
-                    { text: `Vocarank: ${databaseMatch.vocarank}`, url: `https://www.nicovideo.jp/watch/${getVocarankId(databaseMatch.vocarank)}` }
-                ] : [{ text: 'No match found in the database' }]
-            };
-        }
-    }
-    // - Main video functions - //
-    function generateArchiveLinks(baseId, numericId, pageUrl) {
-        return [
-            { text: 'Nicolog', url: `https://www.nicolog.jp/watch/${baseId}` },
-            { text: 'Hatena', url: `https://b.hatena.ne.jp/entry/www.nicovideo.jp/watch/${baseId}` },
-            { text: 'Nicopedia', url: `https://dic.nicovideo.jp/t/v/${baseId}` },
-            { text: 'VocaDB', url: `https://vocadb.net/Search?searchType=Song&filter=https%3A%2F%2Fwww.nicovideo.jp%2Fwatch%2F${baseId}` },
-            { text: 'Archive.org', url: `https://web.archive.org/web/*/${getCleanUrl(pageUrl)}` },
-            { text: 'Small Thumbnail', url: `http://tn-skr4.smilevideo.jp/smile?i=${numericId}` },
-            { text: 'Large Thumbnail', url: `http://tn.smilevideo.jp/smile?i=${numericId}.L` },
-        ];
-    }
-    // get rid of annoying NND tracking information
-    function getCleanUrl(pageUrl) {
-        return pageUrl.split('?')[0];
-    }
-
-    function substringForUserIcon(id, length) {
-        return id.substr(0, length);
-    }
-
-    // Get the video ID of the main video in the vocarank
-    function getVocarankId(vocarank) {
-        const mainVideo = database.find(entry => entry.vocarank === vocarank && entry.availability === 'Main Video');
-        return mainVideo ? mainVideo.id : '';
-    }
-
-    // -- UI Functions -- //
-
-    function createMenuComponents() {
-        const menuButton = document.createElement('div');
-        const menuContent = document.createElement('div');
-        return [menuButton, menuContent];
-    }
-
-    function setupMenuInteraction(button, content) {
-        stylizeMenuButton(button);
-        button.onclick = () => toggleMenuContent(content);
-    }
-
-    function stylizeMenuButton(button) {
-        button.innerHTML = '☰';
-        button.setAttribute('style', 'position: fixed; top: 50%; right: 0; transform: translateY(-50%); z-index: 10000; cursor: pointer; padding: 10px; background-color: #333; color: white; font-size: 1.5em; border-radius: 5px 0 0 5px;');
-        button.addEventListener('mouseenter', () => button.style.backgroundColor = '#555');
-        button.addEventListener('mouseleave', () => button.style.backgroundColor = '#333');
-    }
-
-    function toggleMenuContent(content) {
-        content.style.display = content.style.display === 'none' ? 'block' : 'none';
-    }
-
-    function fillMenuWithTabs(content, tabs) {
-        configureMenuContentStyle(content);
-        const tabsContainer = document.createElement('div');
-        const tabContent = document.createElement('div');
-
-        setupTabsContainer(tabsContainer, tabs, tabContent);
-        content.appendChild(tabsContainer);
-        content.appendChild(tabContent);
-
-        if (Object.keys(tabs).length > 0) {
-            selectFirstTab(tabContent, tabs);
-        }
-    }
-
-    function configureMenuContentStyle(content) {
-        content.setAttribute('style', 'display: none; position: fixed; top: 50%; right: 40px; transform: translateY(-50%); z-index: 10001; background-color: #FFF; border: 1px solid #CCC; border-radius: 5px; padding: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); max-width: 300px;');
-    }
-
-    function setupTabsContainer(container, tabs, contentDisplay) {
-        container.style.display = 'flex';
-        container.style.flexWrap = 'wrap';
-        container.style.justifyContent = 'center';
-        container.style.padding = '10px';
-
-        Object.keys(tabs).forEach((tabName, index) => {
-            const tabButton = createTabButton(tabName);
-            tabButton.onclick = () => activateTab(tabButton, tabs[tabName], contentDisplay);
-
-            if (index === 0) tabButton.onclick();
-
-            container.appendChild(tabButton);
-        });
-    }
-
-    function createTabButton(name) {
-        const button = document.createElement('button');
-        button.textContent = name;
-        button.className = 'menu-tab-button';
-        button.setAttribute('style', 'background-color: #f2f2f2; color: black; border: none; padding: 10px 20px; margin: 0 5px 10px 0; border-radius: 5px; cursor: pointer;');
-        button.addEventListener('mouseenter', () => button.style.backgroundColor = '#ddd');
-        button.addEventListener('mouseleave', () => button.style.backgroundColor = '#f2f2f2');
-        return button;
-    }
-
-    function activateTab(button, items, container) {
-        document.querySelectorAll('.menu-tab-button').forEach(btn => btn.style.backgroundColor = '#f2f2f2');
-        button.style.backgroundColor = '#ddd';
-        updateTabContent(container, items);
-    }
-
-    function updateTabContent(container, items) {
-        container.innerHTML = '';
-        items.forEach(item => {
-            const button = document.createElement('button');
-            button.setAttribute('style', `
-                width: 100%;
-                padding: 10px;
-                margin: 10px 0;
-                text-align: center;
-                background-color: #f0f0f0;
-                background-image: linear-gradient(rgba(255, 255, 255, 0.5) 2px, transparent 2px),
-                                  linear-gradient(90deg, rgba(255, 255, 255, 0.5) 2px, transparent 2px),
-                                  linear-gradient(rgba(255, 255, 255, 0.3) 1px, transparent 1px),
-                                  linear-gradient(90deg, rgba(255, 255, 255, 0.3) 1px, transparent 1px);
-                background-size: 20px 20px, 20px 20px, 10px 10px, 10px 10px;
-                background-position: -2px -2px, -2px -2px, -1px -1px, -1px -1px;
-                color: #333;
-                border: 1px solid #ccc;
-                border-radius: 5px;
-                cursor: pointer;
-                box-shadow: 0 2px 5px rgba(0,0,0,0.2);
-                transition: transform 0.1s ease, box-shadow 0.1s ease;
-             `);
-
-            if (item.text.startsWith('Title:') || item.text.startsWith('Availability:') || item.text.startsWith('Vocarank:')) {
-                button.style.backgroundColor = '#c0f0c0';
-                button.style.color = '#006600';
-            }
-
-            button.addEventListener('mouseover', () => {
-                button.style.transform = 'scale(1.03)';
-                button.style.boxShadow = '0 4px 8px rgba(0,0,0,0.3)';
-            });
-
-            button.addEventListener('mouseout', () => {
-                button.style.transform = 'scale(1)';
-                button.style.boxShadow = '0 2px 5px rgba(0,0,0,0.2)';
-            });
-
-            if (item.url) {
-                button.addEventListener('click', () => { window.open(item.url, '_blank'); });
-            }
-            button.textContent = item.text;
-            container.appendChild(button);
-        });
-    }
-
-    function selectFirstTab(content, tabs) {
-        const firstTabName = Object.keys(tabs)[0];
-        updateTabContent(content, tabs[firstTabName]);
-    }
-
+  /* ---------- BOOT ---------- */
+  const page = parsePage();
+  if (page) { injectCSS(); buildUI(page); }
 })();
