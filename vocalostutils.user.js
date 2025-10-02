@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         Vocalost Utils for NicoNico
 // @namespace    https://github.com/mn7216/Vocalost
-// @version      2.0
-// @author       MN_7216 
+// @version      2.1
+// @author       MN_7216
 // @match        https://www.nicovideo.jp/watch/*
 // @match        https://www.nicovideo.jp/user/*
 // @grant        none
@@ -23,9 +23,6 @@
         ['Nicopedia',id => `https://dic.nicovideo.jp/t/v/${id}`],
         ['VocaDB',   id => `https://vocadb.net/Search?searchType=Song&filter=${encodeURIComponent('https://www.nicovideo.jp/watch/'+id)}`],
         ['Archive',  url=> `https://web.archive.org/web/*/${url}`],
-        ['Thumb S',  nId=> `https://nicovideo.cdn.nimg.jp/thumbnails/${nId}/${nId}`],
-        ['Thumb M',  nId=> `https://nicovideo.cdn.nimg.jp/thumbnails/${nId}/${nId}.M`],
-        ['Thumb L',  nId=> `https://nicovideo.cdn.nimg.jp/thumbnails/${nId}/${nId}.L`],
       ],
       Search: [
         ['Google',  id => `https://www.google.com/search?q="${id}"`],
@@ -33,17 +30,24 @@
         ['NND',     id => `https://www.nicovideo.jp/search/${id}`],
         ['Openlist',id => `https://www.nicovideo.jp/openlist/${id}`],
         ['YouTube', id => `https://www.youtube.com/results?search_query="${id}"`],
-        ['Sogou',   id => `https://www.sogou.com/web?query="${id}"`],
         ['Yandex',  id => `https://yandex.com/search/?text=${id}`],
+      ],
+      Deprecated: [
+        ['Thumb S',  nId=> `https://nicovideo.cdn.nimg.jp/thumbnails/${nId}/${nId}`],
+        ['Thumb M',  nId=> `https://nicovideo.cdn.nimg.jp/thumbnails/${nId}/${nId}.M`],
+        ['Thumb L',  nId=> `https://nicovideo.cdn.nimg.jp/thumbnails/${nId}/${nId}.L`],
+        ['Sogou',   id => `https://www.sogou.com/web?query="${id}"`],
       ]
     },
     user: {
       User: [
         ['Nicolog',  id => `https://www.nicolog.jp/user/${id}`],
+        ['Archive', url=> `https://web.archive.org/web/*/${url}`],
+      ],
+      Deprecated: [
         ['PFP 1', nId => `https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/${nId.slice(0,3)}/${nId}.jpg`],
         ['PFP 2', nId => `https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/${nId.slice(0,4)}/${nId}.jpg`],
         ['PFP 3', nId => `https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/${nId.slice(0,2)}/${nId}.jpg`],
-        ['Archive', url=> `https://web.archive.org/web/*/${url}`],
       ]
     }
   };
@@ -148,7 +152,55 @@
     }
   }
 
+  /* ---------- PAGE ENHANCEMENTS ---------- */
+  // function enablePfpDownload(page) { // DOESN'T WORK, TODO: fix
+  //   // Only run on user pages
+  //   if (page.type !== 'user') return;
+
+  //   const checkInterval = setInterval(() => {
+  //     const pfpElement = $('.UserProfile-icon .UserIcon-image');
+
+  //     if (pfpElement) {
+  //       clearInterval(checkInterval); // Element found, stop checking
+
+  //       const style = pfpElement.style.backgroundImage;
+  //       if (!style) return;
+
+  //       const urlMatch = style.match(/url\("?([^"]+)"?\)/);
+  //       if (!urlMatch || !urlMatch[1]) return;
+
+  //       const imageUrl = urlMatch[1];
+
+  //       pfpElement.style.cursor = 'pointer';
+  //       pfpElement.title = 'Click to download profile picture';
+
+  //       on(pfpElement, 'click', e => {
+  //         e.preventDefault();
+  //         e.stopPropagation();
+
+  //         const fileExtension = (imageUrl.split('.').pop() || 'jpg').split('?')[0];
+  //         const fileName = `${page.numId}_pfp.${fileExtension}`;
+
+  //         const link = document.createElement('a');
+  //         link.href = imageUrl;
+  //         link.download = fileName;
+
+  //         document.body.appendChild(link);
+  //         link.click();
+  //         document.body.removeChild(link);
+  //       });
+  //     }
+  //   }, 500);
+
+  //   // Stop checking after 10 seconds to prevent an infinite loop
+  //   setTimeout(() => clearInterval(checkInterval), 10000);
+  // }
+
   /* ---------- BOOT ---------- */
   const page = parsePage();
-  if (page) { injectCSS(); buildUI(page); }
+  if (page) {
+    injectCSS();
+    buildUI(page);
+    enablePfpDownload(page);
+  }
 })();
