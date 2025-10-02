@@ -26,6 +26,7 @@ Per-script documentation
 	- Button shows "Scanning…" while looking up results and changes color to show whether or not the artist was found
 
 # exclam.user.js
+![exclam](imgs/exclam.webp)
 - Purpose: Replace the small "!" badge in the VocaDB top navigation with the actual count
 - Notes:
 	- replace it with something useful
