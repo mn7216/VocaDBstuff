@@ -3,6 +3,9 @@
 // @namespace    https://github.com/mn7216/Vocalost
 // @description  Check if artist is on VDB
 // @match        https://www.nicovideo.jp/user/*
+// @namespace    https://github.com/mn7216/VocaDBstuff
+// @updateURL    https://raw.githubusercontent.com/mn7216/Vocalost/main/artistonVDBcheck.user.js
+// @downloadURL  https://raw.githubusercontent.com/mn7216/Vocalost/main/artistonVDBcheck.user.js
 // ==/UserScript==
 
 (() => {

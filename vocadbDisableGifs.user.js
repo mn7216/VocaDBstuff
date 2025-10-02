@@ -1,6 +1,8 @@
 // ==UserScript==
 // @name         Stop VocaDB GIFs
 // @match        https://vocadb.net/*
+// @updateURL    https://raw.githubusercontent.com/mn7216/VocaDBstuff/main/vocadbDisableGifs.user.js
+// @downloadURL  https://raw.githubusercontent.com/mn7216/VocaDBstuff/main/vocadbDisableGifs.user.js
 // ==/UserScript==
 
 (() => {

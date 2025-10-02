@@ -3,6 +3,8 @@
 // @description  Removes the TetoDB April Fools CSS link tag from VocaDB.
 // @match        https://vocadb.net/*
 // @run-at       document-end
+// @updateURL    https://raw.githubusercontent.com/mn7216/VocaDBstuff/main/vocadbRemoveTeto.user.js
+// @downloadURL  https://raw.githubusercontent.com/mn7216/VocaDBstuff/main/vocadbRemoveTeto.user.js
 // ==/UserScript==
 //only relevant if there is the forced april fools css - you may want to use this to remove it since the teto css removes features like the username highlighting based on rank
 (() => {

@@ -2,6 +2,7 @@
 // @name         real report count instead of “!”
 // @match        https://vocadb.net/*
 // @run-at       document-start
+// @namespace    https://github.com/mn7216/VocaDBstuff
 // ==/UserScript==
 
 (() => {

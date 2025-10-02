@@ -7,8 +7,8 @@
 // @author MN_7216
 // @description 4/20/2024, 3:34:43 PM
 // @require https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/js/all.min.js
-// @updateURL    https://raw.githubusercontent.com/mn7216/Vocalost/main/piapro.user.js
-// @downloadURL  https://raw.githubusercontent.com/mn7216/Vocalost/main/piapro.user.js
+// @updateURL    https://raw.githubusercontent.com/mn7216/VocaDBstuff/main/piapro.user.js
+// @downloadURL  https://raw.githubusercontent.com/mn7216/VocaDBstuff/main/piapro.user.js
 // ==/UserScript==
 
 (function() {
