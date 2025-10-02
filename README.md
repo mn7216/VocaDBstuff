@@ -9,11 +9,11 @@ Collection of userscripts and utilities focused on VocaDB and NicoNico
 
 # Summary
 - `artistonVDBcheck.user.js` — Add a "Scan on VocaDB" button to NicoNico user pages to find the artist on VocaDB.
-- `exclam.user.js` — Replace the single-exclamation badge on VocaDB navigation with the real number of entry reports.
-- `nicologtlhelper.user.js` — Translate key parts of Nicolog pages (Japanese -> English-friendly text) for easier reading.
-- `piapro.user.js` — Adds a download button for Piapro songs in pages where audio URLs are discoverable.
-- `vocadbDisableGifs.user.js` — Replace animated GIFs on VocaDB pages with a static canvas snapshot to stop animation.
-- `vocadbEntryReportTimestamps.user.js` — Convert timestamps on VocaDB entry report pages from UTC/Japanese format to local time + relative times.
+- `exclam.user.js` — Replace the exclamation badge on VocaDB navigation with the real number of entry reports.
+- `nicologtlhelper.user.js` — Translate parts of Nicolog pages (Japanese -> English)
+- `piapro.user.js` — Adds a download button for Piapro songs so that they are still able to be downloaded even if the author disabled downloading
+- `vocadbDisableGifs.user.js` — Disable GIF animation on VDB
+- `vocadbEntryReportTimestamps.user.js` — Convert timestamps on VocaDB entry report pages from UTC/Japanese format to local time + relative times. (WIP!)
 - `vocadbRemoveTeto.user.js` — Remove the April-Fools/Teto CSS if it is present on VocaDB.
 - `vocalostutils.user.js` — A larger utility suite for NicoNico with quick links (archival, thumbnail, search) for videos and users.
 
