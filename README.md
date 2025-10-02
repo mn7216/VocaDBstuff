@@ -20,14 +20,15 @@ Collection of userscripts and utilities focused on VocaDB and NicoNico
 Per-script documentation
 
 # artistonVDBcheck.user.js
+![badge](imgs/badge.webp)
 - Purpose: Adds a small badge to NicoNico user profile pages that searches VocaDB for the user (by artist name and profile URL). If an artist is found it links to the artist page, otherwise it links to the VocaDB artist creation page.
 - Notes:
 	- Button shows "Scanning…" while looking up results and changes color to show whether or not the artist was found
 
 # exclam.user.js
-- Purpose: Replace the small "!" badge in the VocaDB top navigation (which indicates entry reports) with the actual numeric count pulled from the admin report page.
+- Purpose: Replace the small "!" badge in the VocaDB top navigation with the actual count
 - Notes:
-	- Non-invasive UI change; it reads existing DOM elements and updates only the badge text.
+	- replace it with something useful
 
 # nicologtlhelper.user.js
 - Purpose: Provide translations and formatting improvements for Nicolog pages
